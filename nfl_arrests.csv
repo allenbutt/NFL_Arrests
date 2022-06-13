@@ -1,0 +1,967 @@
+season,week_num,day_of_week,gametime_local,home_team,away_team,home_score,away_score,OT_flag,arrests,division_game,Index_num
+2011,1,Sunday,1:15:00 PM,Arizona,Carolina,28,21,0,5.0,0,0
+2011,4,Sunday,1:05:00 PM,Arizona,New York Giants,27,31,0,6.0,0,1
+2011,7,Sunday,1:05:00 PM,Arizona,Pittsburgh,20,32,0,9.0,0,2
+2011,9,Sunday,2:15:00 PM,Arizona,St. Louis,19,13,1,6.0,1,3
+2011,13,Sunday,2:15:00 PM,Arizona,Dallas,19,13,1,3.0,0,4
+2011,14,Sunday,2:05:00 PM,Arizona,San Francisco,21,19,0,4.0,1,5
+2011,15,Sunday,2:15:00 PM,Arizona,Cleveland,20,17,1,1.0,0,6
+2011,17,Sunday,2:15:00 PM,Arizona,Seattle,23,20,1,4.0,1,7
+2012,1,Sunday,1:25:00 PM,Arizona,Seattle,20,16,0,0.0,1,8
+2012,3,Sunday,1:05:00 PM,Arizona,Philadelphia,27,6,0,12.0,0,9
+2012,4,Sunday,1:05:00 PM,Arizona,Miami,24,21,1,4.0,0,10
+2012,6,Sunday,1:05:00 PM,Arizona,Buffalo,19,16,1,1.0,0,11
+2012,8,Monday,5:30:00 PM,Arizona,San Francisco,3,24,0,3.0,1,12
+2012,12,Sunday,2:25:00 PM,Arizona,St. Louis,17,31,0,7.0,1,13
+2012,15,Sunday,2:05:00 PM,Arizona,Detroit,38,10,0,3.0,0,14
+2012,16,Sunday,2:25:00 PM,Arizona,Chicago,13,28,0,7.0,0,15
+2013,2,Sunday,1:05:00 PM,Arizona,Detroit,25,21,0,7.0,0,16
+2013,5,Sunday,1:05:00 PM,Arizona,Carolina,22,6,0,3.0,0,17
+2013,7,Thursday,5:25:00 PM,Arizona,Seattle,22,34,0,7.0,1,18
+2013,8,Sunday,1:25:00 PM,Arizona,Atlanta,27,13,0,2.0,0,19
+2013,10,Sunday,2:25:00 PM,Arizona,Houston,27,24,0,3.0,0,20
+2013,12,Sunday,2:05:00 PM,Arizona,Indianapolis,40,11,0,2.0,0,21
+2013,14,Sunday,2:25:00 PM,Arizona,St. Louis,30,10,0,4.0,1,22
+2013,17,Sunday,2:25:00 PM,Arizona,San Francisco,20,23,0,7.0,1,23
+2014,1,Monday,7:20:00 PM,Arizona,San Diego,18,17,0,4.0,0,24
+2014,3,Sunday,1:05:00 PM,Arizona,San Francisco,23,14,0,6.0,1,25
+2014,6,Sunday,1:25:00 PM,Arizona,Washington,30,20,0,4.0,0,26
+2014,8,Sunday,1:05:00 PM,Arizona,Philadelphia,24,20,0,2.0,0,27
+2014,10,Sunday,2:25:00 PM,Arizona,St. Louis,31,14,0,1.0,1,28
+2014,11,Sunday,2:25:00 PM,Arizona,Detroit,14,6,0,6.0,0,29
+2014,14,Sunday,2:05:00 PM,Arizona,Kansas City,17,14,0,2.0,0,30
+2014,16,Sunday,6:30:00 PM,Arizona,Seattle,6,35,0,4.0,1,31
+2015,1,Sunday,1:05:00 PM,Arizona,New Orleans,31,19,0,3.0,0,32
+2015,3,Sunday,1:05:00 PM,Arizona,San Francisco,47,7,0,10.0,1,33
+2015,4,Sunday,1:25:00 PM,Arizona,St. Louis,22,24,0,3.0,1,34
+2015,7,Monday,5:30:00 PM,Arizona,Baltimore,26,18,0,2.0,0,35
+2015,11,Sunday,6:30:00 PM,Arizona,Cincinnati,34,31,0,2.0,0,36
+2015,14,Thursday,6:30:00 PM,Arizona,Minnesota,23,20,0,0.0,0,37
+2015,16,Sunday,2:25:00 PM,Arizona,Green Bay,38,8,0,5.0,0,38
+2015,17,Sunday,2:25:00 PM,Arizona,Seattle,6,36,0,2.0,1,39
+2011,1,Sunday,1:05:00 PM,Baltimore,Pittsburgh,35,7,0,1.0,1,40
+2011,4,Sunday,8:20:00 PM,Baltimore,New York Jets,34,17,0,0.0,0,41
+2011,6,Sunday,4:05:00 PM,Baltimore,Houston,29,14,0,0.0,0,42
+2011,8,Sunday,1:00:00 PM,Baltimore,Arizona,30,27,0,0.0,0,43
+2011,11,Sunday,1:00:00 PM,Baltimore,Cincinnati,31,24,0,2.0,1,44
+2011,12,Thursday,8:20:00 PM,Baltimore,San Francisco,16,6,0,0.0,0,45
+2011,14,Sunday,1:00:00 PM,Baltimore,Indianapolis,24,10,0,0.0,0,46
+2011,16,Sunday,1:00:00 PM,Baltimore,Cleveland,20,14,0,0.0,1,47
+2013,2,Sunday,1:00:00 PM,Baltimore,Cleveland,14,6,0,3.0,1,48
+2013,6,Sunday,1:00:00 PM,Baltimore,Green Bay,17,19,0,1.0,0,49
+2013,10,Sunday,1:00:00 PM,Baltimore,Cincinnati,20,17,1,0.0,1,50
+2013,12,Sunday,1:00:00 PM,Baltimore,New York Jets,19,3,0,3.0,0,51
+2013,13,Thursday,8:30:00 PM,Baltimore,Pittsburgh,22,20,0,5.0,1,52
+2013,14,Sunday,1:00:00 PM,Baltimore,Minnesota,29,26,0,0.0,0,53
+2013,16,Sunday,4:25:00 PM,Baltimore,New England,7,41,0,8.0,0,54
+2014,1,Sunday,1:00:00 PM,Baltimore,Cincinnati,16,23,0,0.0,1,55
+2014,2,Thursday,8:25:00 PM,Baltimore,Pittsburgh,26,6,0,4.0,1,56
+2014,4,Sunday,1:00:00 PM,Baltimore,Carolina,38,10,0,5.0,0,57
+2014,7,Sunday,1:00:00 PM,Baltimore,Atlanta,29,7,0,0.0,0,58
+2014,10,Sunday,1:00:00 PM,Baltimore,Tennessee,21,7,0,0.0,0,59
+2014,13,Sunday,1:00:00 PM,Baltimore,San Diego,33,34,0,0.0,0,60
+2014,15,Sunday,1:00:00 PM,Baltimore,Jacksonville,20,12,0,1.0,0,61
+2014,17,Sunday,1:00:00 PM,Baltimore,Cleveland,20,10,0,0.0,1,62
+2015,3,Sunday,1:02:00 PM,Baltimore,Cincinnati,24,28,0,0.0,1,63
+2015,5,Sunday,1:02:00 PM,Baltimore,Cleveland,30,33,1,3.0,1,64
+2015,8,Sunday,1:02:00 PM,Baltimore,San Diego,29,26,0,0.0,0,65
+2015,10,Sunday,1:05:00 PM,Baltimore,Jacksonville,20,22,0,6.0,0,66
+2015,11,Sunday,1:02:00 PM,Baltimore,St. Louis,16,13,0,0.0,0,67
+2015,14,Sunday,1:00:00 PM,Baltimore,Seattle,6,35,0,0.0,0,68
+2015,15,Sunday,1:00:00 PM,Baltimore,Kansas City,14,34,0,0.0,0,69
+2015,16,Sunday,1:00:00 PM,Baltimore,Pittsburgh,20,17,0,4.0,1,70
+2011,2,Sunday,1:00:00 PM,Carolina,Green Bay,23,30,0,0.0,0,71
+2011,3,Sunday,1:00:00 PM,Carolina,Jacksonville,16,10,0,0.0,0,72
+2011,5,Sunday,1:00:00 PM,Carolina,New Orleans,27,30,0,0.0,1,73
+2011,7,Sunday,1:00:00 PM,Carolina,Washington,33,20,0,0.0,0,74
+2011,8,Sunday,1:00:00 PM,Carolina,Minnesota,21,24,0,0.0,0,75
+2011,10,Sunday,1:00:00 PM,Carolina,Tennessee,3,30,0,0.0,0,76
+2011,14,Sunday,1:00:00 PM,Carolina,Atlanta,23,31,0,2.0,1,77
+2011,16,Saturday,1:00:00 PM,Carolina,Tampa Bay,48,16,0,0.0,1,78
+2012,2,Sunday,1:00:00 PM,Carolina,New Orleans,35,27,0,1.0,1,79
+2012,3,Thursday,8:20:00 PM,Carolina,New York Giants,7,36,0,1.0,0,80
+2012,5,Sunday,4:05:00 PM,Carolina,Seattle,12,16,0,1.0,0,81
+2012,7,Sunday,1:00:00 PM,Carolina,Dallas,14,19,0,4.0,0,82
+2012,10,Sunday,1:00:00 PM,Carolina,Denver,14,36,0,1.0,0,83
+2012,11,Sunday,1:00:00 PM,Carolina,Tampa Bay,21,27,1,0.0,1,84
+2012,14,Sunday,1:00:00 PM,Carolina,Atlanta,30,20,0,0.0,1,85
+2012,16,Sunday,1:00:00 PM,Carolina,Oakland,17,6,0,1.0,0,86
+2013,1,Sunday,1:00:00 PM,Carolina,Seattle,7,12,0,1.0,0,87
+2013,3,Sunday,1:00:00 PM,Carolina,New York Giants,38,0,0,5.0,0,88
+2013,7,Sunday,1:00:00 PM,Carolina,St. Louis,30,15,0,1.0,0,89
+2013,9,Sunday,1:00:00 PM,Carolina,Atlanta,34,10,0,3.0,1,90
+2013,11,Monday,8:40:00 PM,Carolina,New England,24,20,0,3.0,0,91
+2013,13,Sunday,1:00:00 PM,Carolina,Tampa Bay,27,6,0,0.0,1,92
+2013,15,Sunday,4:05:00 PM,Carolina,New York Jets,30,20,0,2.0,0,93
+2013,16,Sunday,1:00:00 PM,Carolina,New Orleans,17,13,0,1.0,1,94
+2014,2,Sunday,1:00:00 PM,Carolina,Detroit,24,7,0,1.0,0,95
+2014,3,Sunday,8:30:00 PM,Carolina,Pittsburgh,19,37,0,5.0,0,96
+2014,5,Sunday,1:00:00 PM,Carolina,Chicago,31,24,0,1.0,0,97
+2014,8,Sunday,1:00:00 PM,Carolina,Seattle,9,13,0,2.0,0,98
+2014,9,Thursday,8:25:00 PM,Carolina,New Orleans,10,28,0,1.0,1,99
+2014,11,Sunday,1:00:00 PM,Carolina,Atlanta,17,19,0,0.0,1,100
+2014,15,Sunday,1:00:00 PM,Carolina,Tampa Bay,19,17,0,0.0,1,101
+2014,16,Sunday,1:00:00 PM,Carolina,Cleveland,17,13,0,0.0,0,102
+2015,2,Sunday,1:00:00 PM,Carolina,Houston,24,17,0,0.0,0,103
+2015,3,Sunday,1:00:00 PM,Carolina,New Orleans,27,22,0,0.0,1,104
+2015,7,Sunday,8:30:00 PM,Carolina,Philadelphia,27,16,0,4.0,0,105
+2015,8,Monday,8:30:00 PM,Carolina,Indianapolis,29,26,1,6.0,0,106
+2015,9,Sunday,1:00:00 PM,Carolina,Green Bay,37,29,0,2.0,0,107
+2015,11,Sunday,1:00:00 PM,Carolina,Washington,33,14,0,3.0,0,108
+2015,14,Sunday,1:00:00 PM,Carolina,Atlanta,38,0,0,0.0,1,109
+2015,17,Sunday,4:25:00 PM,Carolina,Tampa Bay,38,10,0,3.0,1,110
+2011,1,Sunday,12:00:00 PM,Chicago,Atlanta,30,12,0,1.0,0,111
+2011,3,Sunday,3:25:00 PM,Chicago,Green Bay,17,27,0,0.0,1,112
+2011,4,Sunday,12:00:00 PM,Chicago,Carolina,34,29,0,1.0,0,113
+2011,6,Sunday,7:20:00 PM,Chicago,Minnesota,39,10,0,0.0,1,114
+2011,10,Sunday,3:15:00 PM,Chicago,Detroit,37,13,0,0.0,1,115
+2011,11,Sunday,3:15:00 PM,Chicago,San Diego,31,20,0,0.0,0,116
+2011,13,Sunday,12:00:00 PM,Chicago,Kansas City,3,10,0,0.0,0,117
+2011,15,Sunday,12:00:00 PM,Chicago,Seattle,14,38,0,1.0,0,118
+2012,1,Sunday,12:00:00 PM,Chicago,Indianapolis,41,21,0,0.0,0,119
+2012,3,Sunday,12:00:00 PM,Chicago,St. Louis,23,6,0,1.0,0,120
+2012,7,Monday,7:30:00 PM,Chicago,Detroit,13,7,0,1.0,1,121
+2012,8,Sunday,12:00:00 PM,Chicago,Carolina,23,22,0,0.0,0,122
+2012,10,Sunday,7:20:00 PM,Chicago,Houston,6,13,0,3.0,0,123
+2012,12,Sunday,12:00:00 PM,Chicago,Minnesota,28,10,0,1.0,1,124
+2012,13,Sunday,12:00:00 PM,Chicago,Seattle,17,23,1,0.0,0,125
+2012,15,Sunday,12:00:00 PM,Chicago,Green Bay,13,21,0,2.0,1,126
+2013,1,Sunday,12:00:00 PM,Chicago,Cincinnati,24,21,0,0.0,0,127
+2013,2,Sunday,12:00:00 PM,Chicago,Minnesota,31,30,0,0.0,1,128
+2013,5,Sunday,12:00:00 PM,Chicago,New Orleans,18,26,0,0.0,0,129
+2013,6,Thursday,7:25:00 PM,Chicago,New York Giants,27,21,0,2.0,0,130
+2013,10,Sunday,12:00:00 PM,Chicago,Detroit,19,21,0,0.0,1,131
+2013,11,Sunday,12:00:00 PM,Chicago,Baltimore,23,10,1,2.0,0,132
+2013,14,Monday,7:40:00 PM,Chicago,Dallas,45,28,0,1.0,0,133
+2013,17,Sunday,3:25:00 PM,Chicago,Green Bay,28,33,0,2.0,1,134
+2014,1,Sunday,12:00:00 PM,Chicago,Buffalo,20,23,1,1.0,0,135
+2014,4,Sunday,12:00:00 PM,Chicago,Green Bay,17,38,0,1.0,1,136
+2014,7,Sunday,12:00:00 PM,Chicago,Miami,14,27,0,0.0,0,137
+2014,11,Sunday,12:00:00 PM,Chicago,Minnesota,21,13,0,2.0,1,138
+2014,12,Sunday,12:00:00 PM,Chicago,Tampa Bay,21,13,0,1.0,0,139
+2014,14,Thursday,7:25:00 PM,Chicago,Dallas,28,41,0,0.0,0,140
+2014,15,Monday,7:30:00 PM,Chicago,New Orleans,15,31,0,2.0,0,141
+2014,16,Sunday,12:00:00 PM,Chicago,Detroit,14,20,0,1.0,1,142
+2011,3,Sunday,1:02:00 PM,Cincinnati,San Francisco,8,13,0,3.0,0,143
+2011,4,Sunday,1:03:00 PM,Cincinnati,Buffalo,23,20,0,0.0,0,144
+2011,6,Sunday,1:02:00 PM,Cincinnati,Indianapolis,27,17,0,1.0,0,145
+2011,10,Sunday,1:02:00 PM,Cincinnati,Pittsburgh,17,24,0,2.0,1,146
+2011,12,Sunday,1:02:00 PM,Cincinnati,Cleveland,23,20,0,3.0,1,147
+2011,14,Sunday,1:02:00 PM,Cincinnati,Houston,19,20,0,0.0,0,148
+2011,16,Sunday,1:02:00 PM,Cincinnati,Arizona,23,16,0,0.0,0,149
+2011,17,Sunday,4:16:00 PM,Cincinnati,Baltimore,16,24,0,0.0,1,150
+2012,2,Sunday,1:00:00 PM,Cincinnati,Cleveland,34,27,0,3.0,1,151
+2012,5,Sunday,1:00:00 PM,Cincinnati,Miami,13,17,0,0.0,0,152
+2012,7,Sunday,8:20:00 PM,Cincinnati,Pittsburgh,17,24,0,0.0,1,153
+2012,9,Sunday,1:00:00 PM,Cincinnati,Denver,23,31,0,2.0,0,154
+2012,10,Sunday,1:00:00 PM,Cincinnati,New York Giants,31,13,0,4.0,0,155
+2012,12,Sunday,1:00:00 PM,Cincinnati,Oakland,34,10,0,3.0,0,156
+2012,14,Sunday,1:00:00 PM,Cincinnati,Dallas,19,20,0,3.0,0,157
+2012,17,Sunday,1:00:00 PM,Cincinnati,Baltimore,23,17,0,1.0,1,158
+2013,2,Monday,8:40:00 PM,Cincinnati,Pittsburgh,20,10,0,3.0,1,159
+2013,3,Sunday,1:00:00 PM,Cincinnati,Green Bay,34,30,0,1.0,0,160
+2013,5,Sunday,1:00:00 PM,Cincinnati,New England,13,6,0,0.0,0,161
+2013,8,Sunday,4:05:00 PM,Cincinnati,New York Jets,49,9,0,1.0,0,162
+2013,11,Sunday,1:00:00 PM,Cincinnati,Cleveland,41,20,0,0.0,1,163
+2013,14,Sunday,1:00:00 PM,Cincinnati,Indianapolis,42,28,0,1.0,0,164
+2013,16,Sunday,1:00:00 PM,Cincinnati,Minnesota,42,14,0,0.0,0,165
+2013,17,Sunday,1:00:00 PM,Cincinnati,Baltimore,34,17,0,0.0,1,166
+2014,2,Sunday,1:00:00 PM,Cincinnati,Atlanta,24,10,0,4.0,0,167
+2014,3,Sunday,1:00:00 PM,Cincinnati,Tennessee,33,7,0,0.0,0,168
+2014,6,Sunday,1:00:00 PM,Cincinnati,Carolina,37,37,1,1.0,0,169
+2014,8,Sunday,1:00:00 PM,Cincinnati,Baltimore,27,24,0,1.0,1,170
+2014,9,Sunday,1:00:00 PM,Cincinnati,Jacksonville,33,23,0,1.0,0,171
+2014,10,Thursday,8:25:00 PM,Cincinnati,Cleveland,3,24,0,10.0,1,172
+2014,14,Sunday,1:00:00 PM,Cincinnati,Pittsburgh,21,42,0,6.0,1,173
+2014,16,Monday,8:30:00 PM,Cincinnati,Denver,37,28,0,0.0,0,174
+2015,2,Sunday,1:00:00 PM,Cincinnati,San Diego,24,19,0,1.0,0,175
+2015,4,Sunday,1:00:00 PM,Cincinnati,Kansas City,36,21,0,1.0,0,176
+2015,5,Sunday,1:00:00 PM,Cincinnati,Seattle,27,24,0,1.0,0,177
+2015,9,Thursday,8:25:00 PM,Cincinnati,Cleveland,31,10,0,0.0,1,178
+2015,10,Monday,8:30:00 PM,Cincinnati,Houston,6,10,0,0.0,0,179
+2015,12,Sunday,1:00:00 PM,Cincinnati,St. Louis,31,7,0,0.0,0,180
+2015,14,Sunday,1:00:00 PM,Cincinnati,Pittsburgh,20,33,0,0.0,1,181
+2015,17,Sunday,1:00:00 PM,Cincinnati,Baltimore,24,16,0,0.0,1,182
+2011,3,Monday,7:30:00 PM,Dallas,Washington,18,16,0,1.0,1,183
+2011,4,Sunday,12:00:00 PM,Dallas,Detroit,30,34,0,1.0,0,184
+2011,7,Sunday,3:15:00 PM,Dallas,St. Louis,34,7,0,0.0,0,185
+2011,9,Sunday,12:00:00 PM,Dallas,Seattle,23,13,0,1.0,0,186
+2011,10,Sunday,12:00:00 PM,Dallas,Buffalo,44,7,0,2.0,0,187
+2011,12,Thursday,3:15:00 PM,Dallas,Miami,20,19,0,0.0,0,188
+2011,14,Sunday,7:20:00 PM,Dallas,New York Giants,34,37,0,0.0,1,189
+2011,16,Saturday,3:15:00 PM,Dallas,Philadelphia,7,20,0,0.0,1,190
+2012,3,Sunday,12:00:00 PM,Dallas,Tampa Bay,16,10,0,4.0,0,191
+2012,4,Monday,7:30:00 PM,Dallas,Chicago,18,34,0,6.0,0,192
+2012,8,Sunday,3:25:00 PM,Dallas,New York Giants,24,29,0,15.0,1,193
+2012,11,Sunday,12:00:00 PM,Dallas,Cleveland,23,20,1,0.0,0,194
+2012,12,Thursday,3:25:00 PM,Dallas,Washington,31,38,0,5.0,1,195
+2012,13,Sunday,7:20:00 PM,Dallas,Philadelphia,38,33,0,15.0,1,196
+2012,15,Sunday,3:25:00 PM,Dallas,Pittsburgh,27,24,1,13.0,0,197
+2012,16,Sunday,12:00:00 PM,Dallas,New Orleans,31,34,1,0.0,0,198
+2013,1,Sunday,7:20:00 PM,Dallas,New York Giants,36,31,0,9.0,1,199
+2013,3,Sunday,12:00:00 PM,Dallas,St. Louis,31,7,0,0.0,0,200
+2013,5,Sunday,3:25:00 PM,Dallas,Denver,48,51,0,0.0,0,201
+2013,6,Sunday,7:20:00 PM,Dallas,Washington,31,16,0,0.0,1,202
+2013,9,Sunday,12:00:00 PM,Dallas,Minnesota,27,23,0,1.0,0,203
+2013,13,Thursday,3:30:00 PM,Dallas,Oakland,31,24,0,8.0,0,204
+2013,15,Sunday,3:25:00 PM,Dallas,Green Bay,36,37,0,5.0,0,205
+2013,17,Sunday,7:30:00 PM,Dallas,Philadelphia,22,24,0,9.0,1,206
+2014,1,Sunday,3:25:00 PM,Dallas,San Francisco,17,28,0,2.0,0,207
+2014,4,Sunday,7:30:00 PM,Dallas,New Orleans,38,17,0,7.0,0,208
+2014,5,Sunday,12:00:00 PM,Dallas,Houston,20,17,1,7.0,0,209
+2014,7,Sunday,3:25:00 PM,Dallas,New York Giants,31,21,0,3.0,1,210
+2014,8,Monday,7:30:00 PM,Dallas,Washington,17,20,1,3.0,1,211
+2014,9,Sunday,12:00:00 PM,Dallas,Arizona,17,28,0,2.0,0,212
+2014,13,Thursday,3:30:00 PM,Dallas,Philadelphia,10,33,0,0.0,1,213
+2014,16,Sunday,3:25:00 PM,Dallas,Indianapolis,42,7,0,1.0,0,214
+2015,1,Sunday,7:30:00 PM,Dallas,New York Giants,27,26,0,13.0,1,215
+2015,3,Sunday,12:00:00 PM,Dallas,Atlanta,28,39,0,3.0,0,216
+2015,5,Sunday,3:25:00 PM,Dallas,New England,6,30,0,7.0,0,217
+2015,8,Sunday,3:25:00 PM,Dallas,Seattle,12,13,0,8.0,0,218
+2015,9,Sunday,7:30:00 PM,Dallas,Philadelphia,27,33,1,8.0,1,219
+2015,12,Thursday,3:30:00 PM,Dallas,Carolina,14,33,0,5.0,0,220
+2015,15,Saturday,7:25:00 PM,Dallas,New York Jets,16,19,0,4.0,0,221
+2015,17,Sunday,12:00:00 PM,Dallas,Washington,23,34,0,1.0,1,222
+2011,1,Monday,8:15:00 PM,Denver,Oakland,20,23,0,2.0,1,223
+2011,2,Sunday,2:15:00 PM,Denver,Cincinnati,24,22,0,0.0,0,224
+2011,5,Sunday,2:15:00 PM,Denver,San Diego,24,29,0,0.0,1,225
+2011,8,Sunday,2:05:00 PM,Denver,Detroit,10,45,0,0.0,0,226
+2011,11,Thursday,6:20:00 PM,Denver,New York Jets,17,13,0,2.0,0,227
+2011,14,Sunday,2:05:00 PM,Denver,Chicago,13,10,1,0.0,0,228
+2011,15,Sunday,2:15:00 PM,Denver,New England,23,41,0,0.0,0,229
+2011,17,Sunday,2:15:00 PM,Denver,Kansas City,3,7,0,0.0,1,230
+2012,1,Sunday,6:20:00 PM,Denver,Pittsburgh,31,19,0,4.0,0,231
+2012,3,Sunday,2:25:00 PM,Denver,Houston,25,31,0,1.0,0,232
+2012,4,Sunday,2:05:00 PM,Denver,Oakland,37,6,0,4.0,1,233
+2012,8,Sunday,6:20:00 PM,Denver,New Orleans,34,14,0,0.0,0,234
+2012,11,Sunday,2:25:00 PM,Denver,San Diego,36,14,0,0.0,1,235
+2012,13,Sunday,2:05:00 PM,Denver,Tampa Bay,31,23,0,0.0,0,236
+2012,16,Sunday,2:05:00 PM,Denver,Cleveland,34,12,0,3.0,0,237
+2012,17,Sunday,2:25:00 PM,Denver,Kansas City,38,3,0,0.0,1,238
+2013,1,Thursday,6:30:00 PM,Denver,Baltimore,49,27,0,5.0,0,239
+2013,3,Monday,6:40:00 PM,Denver,Oakland,37,21,0,8.0,1,240
+2013,4,Sunday,2:25:00 PM,Denver,Philadelphia,52,20,0,11.0,0,241
+2013,6,Sunday,2:05:00 PM,Denver,Jacksonville,35,19,0,5.0,0,242
+2013,8,Sunday,2:25:00 PM,Denver,Washington,45,21,0,2.0,0,243
+2013,11,Sunday,6:30:00 PM,Denver,Kansas City,27,17,0,5.0,1,244
+2013,14,Sunday,2:05:00 PM,Denver,Tennessee,51,28,0,1.0,0,245
+2013,15,Thursday,6:25:00 PM,Denver,San Diego,20,27,0,3.0,1,246
+2014,1,Sunday,6:30:00 PM,Denver,Indianapolis,31,24,0,1.0,0,247
+2014,2,Sunday,2:25:00 PM,Denver,Kansas City,24,17,0,1.0,1,248
+2014,5,Sunday,2:05:00 PM,Denver,Arizona,41,20,0,7.0,0,249
+2014,7,Sunday,6:30:00 PM,Denver,San Francisco,42,17,0,6.0,0,250
+2014,8,Thursday,6:25:00 PM,Denver,San Diego,35,21,0,6.0,1,251
+2014,12,Sunday,2:25:00 PM,Denver,Miami,39,36,0,1.0,0,252
+2014,14,Sunday,2:05:00 PM,Denver,Buffalo,24,17,0,4.0,0,253
+2014,17,Sunday,2:25:00 PM,Denver,Oakland,47,14,0,7.0,1,254
+2015,1,Sunday,2:25:00 PM,Denver,Baltimore,19,13,0,3.0,0,255
+2015,4,Sunday,2:25:00 PM,Denver,Minnesota,23,20,0,2.0,0,256
+2015,8,Sunday,6:30:00 PM,Denver,Green Bay,29,10,0,0.0,0,257
+2015,10,Sunday,2:25:00 PM,Denver,Kansas City,13,29,0,4.0,1,258
+2015,12,Sunday,6:30:00 PM,Denver,New England,30,24,1,3.0,0,259
+2015,14,Sunday,2:05:00 PM,Denver,Oakland,12,15,0,3.0,1,260
+2015,16,Monday,6:30:00 PM,Denver,Cincinnati,20,17,1,1.0,0,261
+2015,17,Sunday,2:25:00 PM,Denver,San Diego,27,20,0,0.0,1,262
+2011,1,Thursday,7:30:00 PM,Green Bay,New Orleans,42,34,0,8.0,0,263
+2011,4,Sunday,3:15:00 PM,Green Bay,Denver,49,23,0,0.0,0,264
+2011,6,Sunday,12:00:00 PM,Green Bay,St. Louis,24,3,0,3.0,0,265
+2011,10,Monday,7:30:00 PM,Green Bay,Minnesota,45,7,0,6.0,1,266
+2011,11,Sunday,12:00:00 PM,Green Bay,Tampa Bay,35,26,0,1.0,0,267
+2011,14,Sunday,3:15:00 PM,Green Bay,Oakland,46,16,0,4.0,0,268
+2011,16,Sunday,7:20:00 PM,Green Bay,Chicago,35,21,0,21.0,1,269
+2011,17,Sunday,12:00:00 PM,Green Bay,Detroit,45,41,0,3.0,1,270
+2012,1,Sunday,3:25:00 PM,Green Bay,San Francisco,22,30,0,4.0,0,271
+2012,2,Thursday,7:20:00 PM,Green Bay,Chicago,23,10,0,15.0,1,272
+2012,4,Sunday,3:25:00 PM,Green Bay,New Orleans,28,27,0,3.0,0,273
+2012,8,Sunday,12:00:00 PM,Green Bay,Jacksonville,24,15,0,1.0,0,274
+2012,9,Sunday,12:00:00 PM,Green Bay,Arizona,31,17,0,9.0,0,275
+2012,13,Sunday,12:00:00 PM,Green Bay,Minnesota,23,14,0,2.0,1,276
+2012,14,Sunday,7:20:00 PM,Green Bay,Detroit,27,20,0,18.0,1,277
+2012,16,Sunday,12:00:00 PM,Green Bay,Tennessee,55,7,0,9.0,0,278
+2013,2,Sunday,12:00:00 PM,Green Bay,Washington,38,20,0,1.0,0,279
+2013,5,Sunday,12:00:00 PM,Green Bay,Detroit,22,9,0,8.0,1,280
+2013,7,Sunday,3:25:00 PM,Green Bay,Cleveland,31,13,0,6.0,0,281
+2013,9,Monday,7:40:00 PM,Green Bay,Chicago,20,27,0,13.0,1,282
+2013,10,Sunday,12:00:00 PM,Green Bay,Philadelphia,13,27,0,6.0,0,283
+2013,12,Sunday,12:00:00 PM,Green Bay,Minnesota,26,26,1,8.0,1,284
+2013,14,Sunday,12:00:00 PM,Green Bay,Atlanta,22,21,0,7.0,0,285
+2013,16,Sunday,3:25:00 PM,Green Bay,Pittsburgh,31,38,0,16.0,0,286
+2014,2,Sunday,3:25:00 PM,Green Bay,New York Jets,31,24,0,8.0,0,287
+2014,5,Thursday,7:25:00 PM,Green Bay,Minnesota,42,10,0,4.0,1,288
+2014,7,Sunday,12:00:00 PM,Green Bay,Carolina,38,17,0,1.0,0,289
+2014,10,Sunday,7:30:00 PM,Green Bay,Chicago,55,14,0,15.0,1,290
+2014,11,Sunday,3:25:00 PM,Green Bay,Philadelphia,53,20,0,3.0,0,291
+2014,13,Sunday,3:25:00 PM,Green Bay,New England,26,21,0,8.0,0,292
+2014,14,Monday,7:30:00 PM,Green Bay,Atlanta,43,37,0,11.0,0,293
+2014,17,Sunday,3:25:00 PM,Green Bay,Detroit,30,20,0,6.0,1,294
+2015,2,Sunday,7:30:00 PM,Green Bay,Seattle,27,17,0,13.0,0,295
+2015,3,Monday,7:30:00 PM,Green Bay,Kansas City,38,28,0,4.0,0,296
+2015,5,Sunday,12:00:00 PM,Green Bay,St. Louis,24,10,0,4.0,0,297
+2015,6,Sunday,3:25:00 PM,Green Bay,San Diego,27,20,0,13.0,0,298
+2015,10,Sunday,12:00:00 PM,Green Bay,Detroit,16,18,0,8.0,1,299
+2015,12,Thursday,7:30:00 PM,Green Bay,Chicago,13,17,0,2.0,1,300
+2015,14,Sunday,3:25:00 PM,Green Bay,Dallas,28,7,0,5.0,0,301
+2015,17,Sunday,7:30:00 PM,Green Bay,Minnesota,13,20,0,11.0,1,302
+2011,1,Sunday,12:00:00 PM,Houston,Indianapolis,34,7,0,2.0,1,303
+2011,4,Sunday,12:00:00 PM,Houston,Pittsburgh,17,10,0,2.0,0,304
+2011,5,Sunday,12:00:00 PM,Houston,Oakland,20,25,0,1.0,0,305
+2011,8,Sunday,12:00:00 PM,Houston,Jacksonville,24,14,0,0.0,1,306
+2011,9,Sunday,12:00:00 PM,Houston,Cleveland,30,12,0,0.0,0,307
+2011,13,Sunday,12:00:00 PM,Houston,Atlanta,17,10,0,2.0,0,308
+2011,15,Sunday,12:00:00 PM,Houston,Carolina,13,28,0,2.0,0,309
+2011,17,Sunday,12:00:00 PM,Houston,Tennessee,22,23,0,0.0,1,310
+2012,1,Sunday,12:00:00 PM,Houston,Miami,30,10,0,6.0,0,311
+2012,4,Sunday,12:00:00 PM,Houston,Tennessee,38,14,0,1.0,1,312
+2012,6,Sunday,6:20:00 PM,Houston,Green Bay,24,42,0,4.0,0,313
+2012,7,Sunday,12:00:00 PM,Houston,Baltimore,43,13,0,1.0,0,314
+2012,9,Sunday,12:00:00 PM,Houston,Buffalo,21,9,0,1.0,0,315
+2012,11,Sunday,12:00:00 PM,Houston,Jacksonville,43,37,1,1.0,1,316
+2012,15,Sunday,12:00:00 PM,Houston,Indianapolis,29,17,0,1.0,1,317
+2012,16,Sunday,12:00:00 PM,Houston,Minnesota,6,23,0,3.0,0,318
+2013,2,Sunday,12:00:00 PM,Houston,Tennessee,30,24,1,2.0,1,319
+2013,4,Sunday,12:00:00 PM,Houston,Seattle,20,23,1,0.0,0,320
+2013,6,Sunday,12:00:00 PM,Houston,St. Louis,13,38,0,1.0,0,321
+2013,9,Sunday,7:30:00 PM,Houston,Indianapolis,24,27,0,1.0,1,322
+2013,11,Sunday,12:00:00 PM,Houston,Oakland,23,28,0,2.0,0,323
+2013,12,Sunday,12:00:00 PM,Houston,Jacksonville,6,13,0,1.0,1,324
+2013,13,Sunday,12:00:00 PM,Houston,New England,31,34,0,0.0,0,325
+2013,16,Sunday,12:00:00 PM,Houston,Denver,13,37,0,0.0,0,326
+2014,1,Sunday,12:00:00 PM,Houston,Washington,17,6,0,1.0,0,327
+2014,4,Sunday,12:00:00 PM,Houston,Buffalo,23,17,0,0.0,0,328
+2014,6,Thursday,7:30:00 PM,Houston,Indianapolis,28,33,0,0.0,1,329
+2014,9,Sunday,12:00:00 PM,Houston,Philadelphia,21,31,0,0.0,0,330
+2014,12,Sunday,12:00:00 PM,Houston,Cincinnati,13,22,0,1.0,0,331
+2014,13,Sunday,12:00:00 PM,Houston,Tennessee,45,21,0,0.0,1,332
+2014,16,Sunday,12:00:00 PM,Houston,Baltimore,25,13,0,0.0,0,333
+2014,17,Sunday,12:00:00 PM,Houston,Jacksonville,23,17,0,0.0,1,334
+2015,1,Sunday,12:00:00 PM,Houston,Kansas City,20,27,0,1.0,0,335
+2015,3,Sunday,12:00:00 PM,Houston,Tampa Bay,19,9,0,1.0,0,336
+2015,5,Thursday,7:25:00 PM,Houston,Indianapolis,20,27,0,0.0,1,337
+2015,8,Sunday,12:00:00 PM,Houston,Tennessee,20,6,0,0.0,1,338
+2015,11,Sunday,12:00:00 PM,Houston,New York Jets,24,17,0,1.0,0,339
+2015,12,Sunday,12:00:00 PM,Houston,New Orleans,24,6,0,1.0,0,340
+2015,14,Sunday,7:30:00 PM,Houston,New England,6,27,0,0.0,0,341
+2015,17,Sunday,12:00:00 PM,Houston,Jacksonville,30,6,0,0.0,1,342
+2011,2,Sunday,1:00:00 PM,Indianapolis,Cleveland,19,27,0,2.0,0,343
+2011,3,Sunday,8:20:00 PM,Indianapolis,Pittsburgh,20,23,0,11.0,0,344
+2011,5,Sunday,1:00:00 PM,Indianapolis,Kansas City,24,28,0,0.0,0,345
+2011,9,Sunday,1:00:00 PM,Indianapolis,Atlanta,7,31,0,3.0,0,346
+2011,10,Sunday,1:00:00 PM,Indianapolis,Jacksonville,3,17,0,0.0,1,347
+2011,12,Sunday,1:00:00 PM,Indianapolis,Carolina,19,27,0,7.0,0,348
+2011,15,Sunday,1:00:00 PM,Indianapolis,Tennessee,27,13,0,0.0,1,349
+2011,16,Thursday,8:20:00 PM,Indianapolis,Houston,19,16,0,2.0,1,350
+2012,2,Sunday,1:00:00 PM,Indianapolis,Minnesota,23,20,0,1.0,0,351
+2012,3,Sunday,1:00:00 PM,Indianapolis,Jacksonville,17,22,0,0.0,1,352
+2012,5,Sunday,1:00:00 PM,Indianapolis,Green Bay,30,27,0,3.0,0,353
+2012,7,Sunday,1:00:00 PM,Indianapolis,Cleveland,17,13,0,2.0,0,354
+2012,9,Sunday,1:00:00 PM,Indianapolis,Miami,23,20,0,4.0,0,355
+2012,12,Sunday,1:00:00 PM,Indianapolis,Buffalo,20,13,0,5.0,0,356
+2012,14,Sunday,1:00:00 PM,Indianapolis,Tennessee,27,23,0,1.0,1,357
+2012,17,Sunday,1:00:00 PM,Indianapolis,Houston,28,16,0,0.0,1,358
+2013,1,Sunday,1:00:00 PM,Indianapolis,Oakland,21,17,0,0.0,0,359
+2013,2,Sunday,1:00:00 PM,Indianapolis,Miami,20,24,0,4.0,0,360
+2013,5,Sunday,1:00:00 PM,Indianapolis,Seattle,34,28,0,2.0,0,361
+2013,7,Sunday,8:30:00 PM,Indianapolis,Denver,39,33,0,10.0,0,362
+2013,10,Sunday,1:00:00 PM,Indianapolis,St. Louis,8,38,0,1.0,0,363
+2013,13,Sunday,1:00:00 PM,Indianapolis,Tennessee,22,14,0,3.0,1,364
+2013,15,Sunday,1:00:00 PM,Indianapolis,Houston,25,3,0,0.0,1,365
+2013,17,Sunday,1:00:00 PM,Indianapolis,Jacksonville,30,10,0,2.0,1,366
+2014,2,Monday,8:30:00 PM,Indianapolis,Philadelphia,27,30,0,4.0,0,367
+2014,4,Sunday,1:00:00 PM,Indianapolis,Tennessee,41,17,0,0.0,1,368
+2014,5,Sunday,1:00:00 PM,Indianapolis,Baltimore,20,13,0,0.0,0,369
+2014,7,Sunday,1:00:00 PM,Indianapolis,Cincinnati,27,0,0,5.0,0,370
+2014,11,Sunday,8:30:00 PM,Indianapolis,New England,20,42,0,3.0,0,371
+2014,12,Sunday,1:00:00 PM,Indianapolis,Jacksonville,23,3,0,1.0,1,372
+2014,13,Sunday,1:00:00 PM,Indianapolis,Washington,49,27,0,4.0,0,373
+2014,15,Sunday,1:00:00 PM,Indianapolis,Houston,17,10,0,0.0,1,374
+2015,2,Monday,8:30:00 PM,Indianapolis,New York Jets,7,20,0,3.0,0,375
+2015,4,Sunday,1:00:00 PM,Indianapolis,Jacksonville,16,13,1,0.0,1,376
+2015,6,Sunday,8:30:00 PM,Indianapolis,New England,27,34,0,2.0,0,377
+2015,7,Sunday,1:00:00 PM,Indianapolis,New Orleans,21,27,0,0.0,0,378
+2015,9,Sunday,4:25:00 PM,Indianapolis,Denver,27,24,0,2.0,0,379
+2015,12,Sunday,1:00:00 PM,Indianapolis,Tampa Bay,25,12,0,0.0,0,380
+2015,15,Sunday,1:00:00 PM,Indianapolis,Houston,10,16,0,3.0,1,381
+2015,17,Sunday,1:00:00 PM,Indianapolis,Tennessee,30,24,0,1.0,1,382
+2011,1,Sunday,1:00:00 PM,Jacksonville,Tennessee,16,14,0,4.0,1,383
+2011,4,Sunday,1:00:00 PM,Jacksonville,New Orleans,10,23,0,4.0,0,384
+2011,5,Sunday,1:00:00 PM,Jacksonville,Cincinnati,20,30,0,2.0,0,385
+2011,7,Monday,8:30:00 PM,Jacksonville,Baltimore,12,7,0,3.0,0,386
+2011,12,Sunday,1:00:00 PM,Jacksonville,Houston,13,20,0,1.0,1,387
+2011,13,Monday,8:30:00 PM,Jacksonville,San Diego,14,38,0,6.0,0,388
+2011,14,Sunday,1:00:00 PM,Jacksonville,Tampa Bay,41,14,0,3.0,0,389
+2011,17,Sunday,1:00:00 PM,Jacksonville,Indianapolis,19,13,0,1.0,1,390
+2012,2,Sunday,1:00:00 PM,Jacksonville,Houston,7,27,0,5.0,1,391
+2012,4,Sunday,4:05:00 PM,Jacksonville,Cincinnati,10,27,0,1.0,0,392
+2012,5,Sunday,4:05:00 PM,Jacksonville,Chicago,3,41,0,2.0,0,393
+2012,9,Sunday,1:00:00 PM,Jacksonville,Detroit,14,31,0,0.0,0,394
+2012,10,Thursday,8:20:00 PM,Jacksonville,Indianapolis,10,27,0,0.0,1,395
+2012,12,Sunday,1:00:00 PM,Jacksonville,Tennessee,24,19,0,0.0,1,396
+2012,14,Sunday,1:00:00 PM,Jacksonville,New York Jets,10,17,0,1.0,0,397
+2012,16,Sunday,1:00:00 PM,Jacksonville,New England,16,23,0,1.0,0,398
+2013,1,Sunday,1:00:00 PM,Jacksonville,Kansas City,2,28,0,3.0,0,399
+2013,4,Sunday,1:00:00 PM,Jacksonville,Indianapolis,3,37,0,0.0,1,400
+2013,7,Sunday,1:00:00 PM,Jacksonville,San Diego,6,24,0,2.0,0,401
+2013,11,Sunday,1:00:00 PM,Jacksonville,Arizona,14,27,0,3.0,0,402
+2013,14,Thursday,8:25:00 PM,Jacksonville,Houston,27,20,0,3.0,1,403
+2013,15,Sunday,1:00:00 PM,Jacksonville,Buffalo,20,27,0,0.0,0,404
+2013,16,Sunday,1:00:00 PM,Jacksonville,Tennessee,16,20,0,1.0,1,405
+2014,3,Sunday,1:00:00 PM,Jacksonville,Indianapolis,17,44,0,3.0,1,406
+2014,5,Sunday,1:00:00 PM,Jacksonville,Pittsburgh,9,17,0,3.0,0,407
+2014,7,Sunday,1:00:00 PM,Jacksonville,Cleveland,24,6,0,0.0,0,408
+2014,8,Sunday,1:00:00 PM,Jacksonville,Miami,13,27,0,3.0,0,409
+2014,13,Sunday,1:00:00 PM,Jacksonville,New York Giants,25,24,0,0.0,0,410
+2014,14,Sunday,1:00:00 PM,Jacksonville,Houston,13,27,0,0.0,1,411
+2014,16,Thursday,8:30:00 PM,Jacksonville,Tennessee,21,13,0,1.0,1,412
+2015,1,Sunday,1:00:00 PM,Jacksonville,Carolina,9,20,0,1.0,0,413
+2015,2,Sunday,4:05:00 PM,Jacksonville,Miami,23,20,0,2.0,0,414
+2015,6,Sunday,1:00:00 PM,Jacksonville,Houston,20,31,0,0.0,1,415
+2015,11,Thursday,8:25:00 PM,Jacksonville,Tennessee,19,13,0,1.0,1,416
+2015,12,Sunday,1:00:00 PM,Jacksonville,San Diego,25,31,0,0.0,0,417
+2015,14,Sunday,1:00:00 PM,Jacksonville,Indianapolis,51,16,0,2.0,1,418
+2015,15,Sunday,1:00:00 PM,Jacksonville,Atlanta,17,23,0,2.0,0,419
+2011,1,Sunday,12:00:00 PM,Kansas City,Buffalo,7,41,0,0.0,0,420
+2011,4,Sunday,12:00:00 PM,Kansas City,Minnesota,22,17,0,1.0,0,421
+2011,8,Monday,7:30:00 PM,Kansas City,San Diego,23,20,1,2.0,1,422
+2011,9,Sunday,12:00:00 PM,Kansas City,Miami,3,31,0,3.0,0,423
+2011,10,Sunday,12:00:00 PM,Kansas City,Denver,10,17,0,1.0,1,424
+2011,12,Sunday,7:20:00 PM,Kansas City,Pittsburgh,9,13,0,0.0,0,425
+2011,15,Sunday,12:00:00 PM,Kansas City,Green Bay,19,14,0,2.0,0,426
+2011,16,Saturday,12:00:00 PM,Kansas City,Oakland,13,16,1,2.0,1,427
+2012,1,Sunday,12:00:00 PM,Kansas City,Atlanta,24,40,0,0.0,0,428
+2012,4,Sunday,12:00:00 PM,Kansas City,San Diego,20,37,0,0.0,1,429
+2012,5,Sunday,12:00:00 PM,Kansas City,Baltimore,6,9,0,0.0,0,430
+2012,8,Sunday,3:05:00 PM,Kansas City,Oakland,16,26,0,4.0,1,431
+2012,11,Sunday,12:00:00 PM,Kansas City,Cincinnati,6,28,0,0.0,0,432
+2012,12,Sunday,12:00:00 PM,Kansas City,Denver,9,17,0,1.0,1,433
+2012,13,Sunday,12:00:00 PM,Kansas City,Miami,27,21,0,1.0,0,434
+2012,16,Sunday,12:00:00 PM,Kansas City,Indianapolis,13,20,0,0.0,0,435
+2013,2,Sunday,12:00:00 PM,Kansas City,Dallas,17,16,0,4.0,0,436
+2013,4,Sunday,12:00:00 PM,Kansas City,New York Giants,31,7,0,4.0,0,437
+2013,6,Sunday,12:00:00 PM,Kansas City,Oakland,24,7,0,0.0,1,438
+2013,7,Sunday,3:25:00 PM,Kansas City,Houston,17,16,0,2.0,0,439
+2013,8,Sunday,12:00:00 PM,Kansas City,Cleveland,23,17,0,3.0,0,440
+2013,12,Sunday,12:00:00 PM,Kansas City,San Diego,38,41,0,4.0,1,441
+2013,13,Sunday,3:25:00 PM,Kansas City,Denver,28,35,0,4.0,1,442
+2013,16,Sunday,12:00:00 PM,Kansas City,Indianapolis,7,23,0,0.0,0,443
+2014,1,Sunday,12:00:00 PM,Kansas City,Tennessee,10,26,0,1.0,0,444
+2014,4,Monday,7:30:00 PM,Kansas City,New England,41,14,0,5.0,0,445
+2014,8,Sunday,12:00:00 PM,Kansas City,St. Louis,34,7,0,2.0,0,446
+2014,9,Sunday,12:00:00 PM,Kansas City,New York Jets,24,10,0,1.0,0,447
+2014,11,Sunday,12:00:00 PM,Kansas City,Seattle,24,20,0,2.0,0,448
+2014,13,Sunday,7:30:00 PM,Kansas City,Denver,16,29,0,5.0,1,449
+2014,15,Sunday,12:00:00 PM,Kansas City,Oakland,31,13,0,8.0,1,450
+2014,17,Sunday,12:00:00 PM,Kansas City,San Diego,19,7,0,3.0,1,451
+2015,2,Thursday,7:30:00 PM,Kansas City,Denver,24,31,0,2.0,1,452
+2015,5,Sunday,12:00:00 PM,Kansas City,Chicago,17,18,0,0.0,0,453
+2015,7,Sunday,12:00:00 PM,Kansas City,Pittsburgh,23,13,0,1.0,0,454
+2015,12,Sunday,12:00:00 PM,Kansas City,Buffalo,30,22,0,0.0,0,455
+2015,14,Sunday,12:00:00 PM,Kansas City,San Diego,10,3,0,1.0,1,456
+2015,16,Sunday,12:00:00 PM,Kansas City,Cleveland,17,13,0,0.0,0,457
+2015,17,Sunday,3:25:00 PM,Kansas City,Oakland,23,17,0,2.0,1,458
+2012,2,Sunday,1:02:00 PM,Miami,Oakland,35,13,0,1.0,0,459
+2012,3,Sunday,1:00:00 PM,Miami,New York Jets,20,23,0,4.0,1,460
+2012,6,Sunday,1:00:00 PM,Miami,St. Louis,17,14,0,0.0,0,461
+2012,10,Sunday,1:00:00 PM,Miami,Tennessee,3,37,0,3.0,0,462
+2012,12,Sunday,1:00:00 PM,Miami,Seattle,24,21,0,0.0,0,463
+2012,13,Sunday,1:00:00 PM,Miami,New England,16,23,0,4.0,1,464
+2012,15,Sunday,1:00:00 PM,Miami,Jacksonville,24,3,0,2.0,0,465
+2012,16,Sunday,1:00:00 PM,Miami,Buffalo,24,10,0,5.0,1,466
+2013,3,Sunday,4:05:00 PM,Miami,Atlanta,27,23,0,3.0,0,467
+2013,5,Sunday,1:00:00 PM,Miami,Baltimore,23,26,0,0.0,0,468
+2013,7,Sunday,1:00:00 PM,Miami,Buffalo,21,23,0,0.0,1,469
+2013,9,Thursday,8:25:00 PM,Miami,Cincinnati,22,20,1,0.0,0,470
+2013,11,Sunday,4:05:00 PM,Miami,San Diego,20,16,0,4.0,0,471
+2013,12,Sunday,1:00:00 PM,Miami,Carolina,16,20,0,3.0,0,472
+2013,15,Sunday,1:00:00 PM,Miami,New England,24,20,0,1.0,1,473
+2013,17,Sunday,1:00:00 PM,Miami,New York Jets,7,20,0,3.0,1,474
+2014,1,Sunday,1:00:00 PM,Miami,New England,33,20,0,2.0,1,475
+2014,3,Sunday,4:25:00 PM,Miami,Kansas City,14,34,0,4.0,0,476
+2014,6,Sunday,1:00:00 PM,Miami,Green Bay,24,27,0,4.0,0,477
+2014,9,Sunday,1:00:00 PM,Miami,San Diego,37,0,0,5.0,0,478
+2014,11,Thursday,8:25:00 PM,Miami,Buffalo,22,9,0,4.0,1,479
+2014,14,Sunday,1:00:00 PM,Miami,Baltimore,13,28,0,1.0,0,480
+2014,16,Sunday,1:00:00 PM,Miami,Minnesota,37,35,0,2.0,0,481
+2014,17,Sunday,1:00:00 PM,Miami,New York Jets,24,37,0,7.0,1,482
+2015,3,Sunday,4:25:00 PM,Miami,Buffalo,14,41,0,5.0,1,483
+2015,7,Sunday,1:00:00 PM,Miami,Houston,44,26,0,1.0,0,484
+2015,11,Sunday,1:00:00 PM,Miami,Dallas,14,24,0,1.0,0,485
+2015,13,Sunday,1:00:00 PM,Miami,Baltimore,15,13,0,2.0,0,486
+2015,14,Monday,8:30:00 PM,Miami,New York Giants,24,31,0,2.0,0,487
+2015,16,Sunday,1:00:00 PM,Miami,Indianapolis,12,18,0,0.0,0,488
+2015,17,Sunday,1:00:00 PM,Miami,New England,20,10,0,1.0,1,489
+2011,0,0,0,Miami,New York Jets,19,17,0,2.3870967741935485,1,490
+2011,2,Sunday,4:15:00 PM,New England,San Diego,35,21,0,4.0,0,491
+2011,5,Sunday,4:15:00 PM,New England,New York Jets,30,21,0,6.0,1,492
+2011,6,Sunday,4:15:00 PM,New England,Dallas,20,16,0,7.0,0,493
+2011,9,Sunday,4:15:00 PM,New England,New York Giants,20,24,0,2.0,0,494
+2011,11,Monday,8:30:00 PM,New England,Kansas City,34,3,0,12.0,0,495
+2011,13,Sunday,1:00:00 PM,New England,Indianapolis,31,24,0,6.0,0,496
+2011,16,Saturday,1:00:00 PM,New England,Miami,27,24,0,3.0,1,497
+2011,17,Sunday,1:00:00 PM,New England,Buffalo,49,21,0,1.0,1,498
+2012,2,Sunday,1:00:00 PM,New England,Arizona,18,20,0,9.0,0,499
+2012,5,Sunday,4:25:00 PM,New England,Denver,31,21,0,6.0,0,500
+2012,7,Sunday,4:25:00 PM,New England,New York Jets,29,26,1,4.0,1,501
+2012,10,Sunday,1:00:00 PM,New England,Buffalo,37,31,0,5.0,1,502
+2012,11,Sunday,4:25:00 PM,New England,Indianapolis,59,24,0,3.0,0,503
+2012,14,Monday,8:30:00 PM,New England,Houston,42,14,0,7.0,0,504
+2012,15,Sunday,8:20:00 PM,New England,San Francisco,34,41,0,7.0,0,505
+2012,17,Sunday,4:25:00 PM,New England,Miami,28,0,0,2.0,1,506
+2013,2,Thursday,8:25:00 PM,New England,New York Jets,13,10,0,14.0,1,507
+2013,3,Sunday,1:00:00 PM,New England,Tampa Bay,23,3,0,1.0,0,508
+2013,6,Sunday,4:25:00 PM,New England,New Orleans,30,27,0,6.0,0,509
+2013,8,Sunday,1:00:00 PM,New England,Miami,27,17,0,1.0,1,510
+2013,9,Sunday,4:25:00 PM,New England,Pittsburgh,55,31,0,2.0,0,511
+2013,12,Sunday,8:30:00 PM,New England,Denver,34,31,1,4.0,0,512
+2013,14,Sunday,1:00:00 PM,New England,Cleveland,27,26,0,5.0,0,513
+2013,17,Sunday,4:25:00 PM,New England,Buffalo,34,20,0,4.0,1,514
+2014,3,Sunday,1:00:00 PM,New England,Oakland,16,9,0,7.0,0,515
+2014,5,Sunday,8:30:00 PM,New England,Cincinnati,43,17,0,7.0,0,516
+2014,7,Thursday,8:30:00 PM,New England,New York Jets,27,25,0,7.0,1,517
+2014,8,Sunday,1:00:00 PM,New England,Chicago,51,23,0,6.0,0,518
+2014,9,Sunday,4:25:00 PM,New England,Denver,43,21,0,1.0,0,519
+2014,12,Sunday,1:00:00 PM,New England,Detroit,34,9,0,2.0,0,520
+2014,15,Sunday,1:00:00 PM,New England,Miami,41,13,0,6.0,1,521
+2014,17,Sunday,1:00:00 PM,New England,Buffalo,9,17,0,2.0,1,522
+2015,1,Thursday,8:30:00 PM,New England,Pittsburgh,28,21,0,4.0,0,523
+2015,3,Sunday,1:00:00 PM,New England,Jacksonville,51,17,0,0.0,0,524
+2015,7,Sunday,1:00:00 PM,New England,New York Jets,30,23,0,3.0,1,525
+2015,8,Thursday,8:25:00 PM,New England,Miami,36,7,0,6.0,1,526
+2015,9,Sunday,1:00:00 PM,New England,Washington,27,10,0,2.0,0,527
+2015,11,Monday,8:30:00 PM,New England,Buffalo,20,13,0,9.0,1,528
+2015,13,Sunday,4:25:00 PM,New England,Philadelphia,28,35,0,3.0,0,529
+2015,15,Sunday,1:00:00 PM,New England,Tennessee,33,16,0,2.0,0,530
+2011,2,Monday,8:30:00 PM,New York Giants,St. Louis,28,16,0,18.0,0,531
+2011,5,Sunday,1:00:00 PM,New York Giants,Seattle,25,36,0,15.0,0,532
+2011,6,Sunday,1:00:00 PM,New York Giants,Buffalo,27,24,0,19.0,0,533
+2011,8,Sunday,1:00:00 PM,New York Giants,Miami,20,17,0,23.0,0,534
+2011,11,Sunday,8:20:00 PM,New York Giants,Philadelphia,10,17,0,26.0,1,535
+2011,13,Sunday,4:15:00 PM,New York Giants,Green Bay,35,38,0,35.0,0,536
+2011,15,Sunday,1:00:00 PM,New York Giants,Washington,10,23,0,31.0,1,537
+2011,17,Sunday,8:20:00 PM,New York Giants,Dallas,31,14,0,21.0,1,538
+2012,1,Wednesday,8:20:00 PM,New York Giants,Dallas,17,24,0,39.0,1,539
+2012,2,Sunday,1:00:00 PM,New York Giants,Tampa Bay,41,34,0,6.0,0,540
+2012,5,Sunday,1:00:00 PM,New York Giants,Cleveland,41,27,0,12.0,0,541
+2012,7,Sunday,1:00:00 PM,New York Giants,Washington,27,23,0,16.0,1,542
+2012,9,Sunday,4:25:00 PM,New York Giants,Pittsburgh,20,24,0,20.0,0,543
+2012,12,Sunday,8:20:00 PM,New York Giants,Green Bay,38,10,0,23.0,0,544
+2012,14,Sunday,4:25:00 PM,New York Giants,New Orleans,52,27,0,14.0,0,545
+2012,17,Sunday,1:00:00 PM,New York Giants,Philadelphia,42,7,0,15.0,1,546
+2013,2,Sunday,4:25:00 PM,New York Giants,Denver,23,41,0,21.0,0,547
+2013,5,Sunday,1:00:00 PM,New York Giants,Philadelphia,21,36,0,12.0,1,548
+2013,7,Monday,8:40:00 PM,New York Giants,Minnesota,23,7,0,19.0,0,549
+2013,10,Sunday,1:00:00 PM,New York Giants,Oakland,24,20,0,29.0,0,550
+2013,11,Sunday,4:25:00 PM,New York Giants,Green Bay,27,13,0,16.0,0,551
+2013,12,Sunday,4:25:00 PM,New York Giants,Dallas,21,24,0,46.0,1,552
+2013,15,Sunday,1:00:00 PM,New York Giants,Seattle,0,23,0,29.0,0,553
+2013,17,Sunday,1:00:00 PM,New York Giants,Washington,20,6,0,10.0,1,554
+2014,2,Sunday,1:00:00 PM,New York Giants,Arizona,14,25,0,16.0,0,555
+2014,3,Sunday,1:00:00 PM,New York Giants,Houston,30,17,0,22.0,0,556
+2014,5,Sunday,1:00:00 PM,New York Giants,Atlanta,30,20,0,24.0,0,557
+2014,9,Monday,8:30:00 PM,New York Giants,Indianapolis,24,40,0,20.0,0,558
+2014,11,Sunday,1:00:00 PM,New York Giants,San Francisco,10,16,0,23.0,0,559
+2014,12,Sunday,8:30:00 PM,New York Giants,Dallas,28,31,0,33.0,1,560
+2014,15,Sunday,1:00:00 PM,New York Giants,Washington,24,13,0,9.0,1,561
+2014,17,Sunday,1:00:00 PM,New York Giants,Philadelphia,26,34,0,28.0,1,562
+2015,2,Sunday,1:00:00 PM,New York Giants,Atlanta,20,24,0,18.0,0,563
+2015,3,Thursday,8:25:00 PM,New York Giants,Washington,32,21,0,24.0,1,564
+2015,5,Sunday,8:30:00 PM,New York Giants,San Francisco,30,27,0,26.0,0,565
+2015,7,Sunday,4:25:00 PM,New York Giants,Dallas,27,20,0,35.0,1,566
+2015,10,Sunday,4:25:00 PM,New York Giants,New England,26,27,0,22.0,0,567
+2015,13,Sunday,1:00:00 PM,New York Giants,New York Jets,20,23,1,39.0,0,568
+2015,15,Sunday,1:00:00 PM,New York Giants,Carolina,35,38,0,31.0,0,569
+2015,17,Sunday,1:00:00 PM,New York Giants,Philadelphia,30,35,0,14.0,1,570
+2011,1,Sunday,8:20:00 PM,New York Jets,Dallas,27,24,0,34.0,0,571
+2011,2,Sunday,1:00:00 PM,New York Jets,Jacksonville,32,3,0,23.0,0,572
+2011,6,Monday,8:30:00 PM,New York Jets,Miami,24,6,0,28.0,1,573
+2011,7,Sunday,1:00:00 PM,New York Jets,San Diego,27,21,0,20.0,0,574
+2011,10,Sunday,8:20:00 PM,New York Jets,New England,16,37,0,30.0,1,575
+2011,12,Sunday,1:00:00 PM,New York Jets,Buffalo,28,24,0,12.0,1,576
+2011,14,Sunday,1:00:00 PM,New York Jets,Kansas City,37,10,0,14.0,0,577
+2011,16,Saturday,1:00:00 PM,New York Jets,New York Giants,14,29,0,31.0,0,578
+2012,1,Sunday,1:00:00 PM,New York Jets,Buffalo,48,28,0,22.0,1,579
+2012,4,Sunday,1:00:00 PM,New York Jets,San Francisco,0,34,0,18.0,0,580
+2012,5,Monday,8:30:00 PM,New York Jets,Houston,17,23,0,15.0,0,581
+2012,6,Sunday,1:00:00 PM,New York Jets,Indianapolis,35,9,0,10.0,0,582
+2012,8,Sunday,1:00:00 PM,New York Jets,Miami,9,30,0,16.0,1,583
+2012,12,Thursday,8:20:00 PM,New York Jets,New England,19,49,0,38.0,1,584
+2012,14,Sunday,1:00:00 PM,New York Jets,Arizona,7,6,0,11.0,0,585
+2012,16,Sunday,1:00:00 PM,New York Jets,San Diego,17,27,0,18.0,0,586
+2013,1,Sunday,1:00:00 PM,New York Jets,Tampa Bay,18,17,0,17.0,0,587
+2013,3,Sunday,4:25:00 PM,New York Jets,Buffalo,27,20,0,22.0,1,588
+2013,6,Sunday,1:00:00 PM,New York Jets,Pittsburgh,6,19,0,20.0,0,589
+2013,7,Sunday,1:00:00 PM,New York Jets,New England,30,27,1,29.0,1,590
+2013,9,Sunday,1:00:00 PM,New York Jets,New Orleans,26,20,0,11.0,0,591
+2013,13,Sunday,1:00:00 PM,New York Jets,Miami,3,23,0,26.0,1,592
+2013,14,Sunday,1:00:00 PM,New York Jets,Oakland,37,27,0,8.0,0,593
+2013,16,Sunday,1:00:00 PM,New York Jets,Cleveland,24,13,0,10.0,0,594
+2014,1,Sunday,1:00:00 PM,New York Jets,Oakland,19,14,0,12.0,0,595
+2014,3,Monday,8:30:00 PM,New York Jets,Chicago,19,27,0,27.0,0,596
+2014,4,Sunday,1:00:00 PM,New York Jets,Detroit,17,24,0,22.0,0,597
+2014,6,Sunday,1:00:00 PM,New York Jets,Denver,17,31,0,18.0,0,598
+2014,8,Sunday,1:00:00 PM,New York Jets,Buffalo,23,43,0,25.0,1,599
+2014,10,Sunday,1:00:00 PM,New York Jets,Pittsburgh,20,13,0,14.0,0,600
+2014,13,Monday,8:30:00 PM,New York Jets,Miami,13,16,0,20.0,1,601
+2014,16,Sunday,1:00:00 PM,New York Jets,New England,16,17,0,28.0,1,602
+2015,1,Sunday,1:00:00 PM,New York Jets,Cleveland,31,10,0,7.0,0,603
+2015,3,Sunday,1:00:00 PM,New York Jets,Philadelphia,17,24,0,26.0,0,604
+2015,6,Sunday,1:00:00 PM,New York Jets,Washington,34,20,0,28.0,0,605
+2015,9,Sunday,1:00:00 PM,New York Jets,Jacksonville,28,23,0,15.0,0,606
+2015,10,Thursday,8:25:00 PM,New York Jets,Buffalo,17,22,0,44.0,1,607
+2015,12,Sunday,1:00:00 PM,New York Jets,Miami,38,20,0,27.0,1,608
+2015,14,Sunday,1:00:00 PM,New York Jets,Tennessee,30,8,0,30.0,0,609
+2015,16,Sunday,1:00:00 PM,New York Jets,New England,26,20,1,32.0,1,610
+2011,3,Sunday,1:05:00 PM,Oakland,New York Jets,34,24,0,12.0,0,611
+2011,4,Sunday,1:15:00 PM,Oakland,New England,19,31,0,15.0,0,612
+2011,6,Sunday,1:05:00 PM,Oakland,Cleveland,24,17,0,7.0,0,613
+2011,7,Sunday,1:05:00 PM,Oakland,Kansas City,0,28,0,12.0,1,614
+2011,9,Sunday,1:05:00 PM,Oakland,Denver,24,38,0,28.0,1,615
+2011,12,Sunday,1:05:00 PM,Oakland,Chicago,25,20,0,15.0,0,616
+2011,15,Sunday,1:05:00 PM,Oakland,Detroit,27,28,0,19.0,0,617
+2011,17,Sunday,1:15:00 PM,Oakland,San Diego,26,38,0,19.0,1,618
+2012,1,Monday,7:15:00 PM,Oakland,San Diego,14,22,0,17.0,1,619
+2012,3,Sunday,1:25:00 PM,Oakland,Pittsburgh,34,31,0,25.0,0,620
+2012,7,Sunday,1:25:00 PM,Oakland,Jacksonville,26,23,1,16.0,0,621
+2012,9,Sunday,1:05:00 PM,Oakland,Tampa Bay,32,42,0,17.0,0,622
+2012,11,Sunday,1:05:00 PM,Oakland,New Orleans,17,38,0,19.0,0,623
+2012,13,Sunday,1:25:00 PM,Oakland,Cleveland,17,20,0,7.0,0,624
+2012,14,Thursday,5:20:00 PM,Oakland,Denver,13,26,0,24.0,1,625
+2012,15,Sunday,1:25:00 PM,Oakland,Kansas City,0,15,0,8.0,1,626
+2013,2,Sunday,1:25:00 PM,Oakland,Jacksonville,19,9,0,10.0,0,627
+2013,4,Sunday,1:25:00 PM,Oakland,Washington,14,24,0,15.0,0,628
+2013,5,Sunday,8:35:00 PM,Oakland,San Diego,27,17,0,20.0,1,629
+2013,8,Sunday,1:05:00 PM,Oakland,Pittsburgh,21,18,0,14.0,0,630
+2013,9,Sunday,1:05:00 PM,Oakland,Philadelphia,20,49,0,13.0,0,631
+2013,12,Sunday,1:05:00 PM,Oakland,Tennessee,19,23,0,20.0,0,632
+2013,15,Sunday,1:05:00 PM,Oakland,Kansas City,31,56,0,21.0,1,633
+2013,17,Sunday,1:25:00 PM,Oakland,Denver,14,34,0,10.0,1,634
+2014,2,Sunday,1:25:00 PM,Oakland,Houston,14,30,0,18.0,0,635
+2014,6,Sunday,1:05:00 PM,Oakland,San Diego,28,31,0,30.0,1,636
+2014,7,Sunday,1:25:00 PM,Oakland,Arizona,13,24,0,25.0,0,637
+2014,14,Sunday,1:25:00 PM,Oakland,San Francisco,24,13,0,49.0,0,638
+2014,16,Sunday,1:25:00 PM,Oakland,Buffalo,26,24,0,21.0,0,639
+2015,1,Sunday,1:25:00 PM,Oakland,Cincinnati,13,33,0,11.0,0,640
+2015,2,Sunday,1:05:00 PM,Oakland,Baltimore,37,33,0,18.0,0,641
+2015,5,Sunday,1:25:00 PM,Oakland,Denver,10,16,0,21.0,1,642
+2015,8,Sunday,1:05:00 PM,Oakland,New York Jets,34,20,0,16.0,0,643
+2015,10,Sunday,1:05:00 PM,Oakland,Minnesota,14,30,0,22.0,0,644
+2015,13,Sunday,1:05:00 PM,Oakland,Kansas City,20,34,0,19.0,1,645
+2015,15,Sunday,1:05:00 PM,Oakland,Green Bay,20,30,0,15.0,0,646
+2015,16,Thursday,5:25:00 PM,Oakland,San Diego,23,20,0,10.0,1,647
+2011,3,Sunday,1:00:00 PM,Philadelphia,New York Giants,16,29,0,2.0,1,648
+2011,4,Sunday,1:00:00 PM,Philadelphia,San Francisco,23,24,0,5.0,0,649
+2011,8,Sunday,8:20:00 PM,Philadelphia,Dallas,34,7,0,5.0,1,650
+2011,9,Monday,8:30:00 PM,Philadelphia,Chicago,24,30,0,2.0,0,651
+2011,10,Sunday,1:00:00 PM,Philadelphia,Arizona,17,21,0,2.0,0,652
+2011,12,Sunday,4:15:00 PM,Philadelphia,New England,20,38,0,2.0,0,653
+2011,15,Sunday,4:15:00 PM,Philadelphia,New York Jets,45,19,0,1.0,0,654
+2011,17,Sunday,1:00:00 PM,Philadelphia,Washington,34,10,0,2.0,1,655
+2012,2,Sunday,1:00:00 PM,Philadelphia,Baltimore,24,23,0,2.0,0,656
+2012,4,Sunday,8:20:00 PM,Philadelphia,New York Giants,19,17,0,6.0,1,657
+2012,6,Sunday,1:00:00 PM,Philadelphia,Detroit,23,26,1,1.0,0,658
+2012,8,Sunday,1:00:00 PM,Philadelphia,Atlanta,17,30,0,0.0,0,659
+2012,10,Sunday,4:25:00 PM,Philadelphia,Dallas,23,38,0,4.0,1,660
+2012,12,Monday,8:30:00 PM,Philadelphia,Carolina,22,30,0,1.0,0,661
+2012,15,Thursday,8:20:00 PM,Philadelphia,Cincinnati,13,34,0,1.0,0,662
+2012,16,Sunday,1:00:00 PM,Philadelphia,Washington,20,27,0,1.0,1,663
+2013,2,Sunday,1:00:00 PM,Philadelphia,San Diego,30,33,0,2.0,0,664
+2013,3,Thursday,8:25:00 PM,Philadelphia,Kansas City,16,26,0,2.0,0,665
+2013,7,Sunday,1:00:00 PM,Philadelphia,Dallas,3,17,0,1.0,1,666
+2013,8,Sunday,1:00:00 PM,Philadelphia,New York Giants,7,15,0,18.0,1,667
+2013,11,Sunday,1:00:00 PM,Philadelphia,Washington,24,16,0,3.0,1,668
+2013,13,Sunday,1:00:00 PM,Philadelphia,Arizona,24,21,0,3.0,0,669
+2013,14,Sunday,1:00:00 PM,Philadelphia,Detroit,34,20,0,10.0,0,670
+2013,16,Sunday,8:30:00 PM,Philadelphia,Chicago,54,11,0,12.0,0,671
+2014,1,Sunday,1:00:00 PM,Philadelphia,Jacksonville,34,17,0,3.0,0,672
+2014,3,Sunday,1:00:00 PM,Philadelphia,Washington,37,34,0,3.0,1,673
+2014,5,Sunday,1:00:00 PM,Philadelphia,St. Louis,34,28,0,1.0,0,674
+2014,6,Sunday,8:30:00 PM,Philadelphia,New York Giants,27,0,0,1.0,1,675
+2014,10,Monday,8:30:00 PM,Philadelphia,Carolina,45,21,0,1.0,0,676
+2014,12,Sunday,1:00:00 PM,Philadelphia,Tennessee,43,24,0,5.0,0,677
+2014,14,Sunday,4:25:00 PM,Philadelphia,Seattle,14,24,0,2.0,0,678
+2014,15,Sunday,8:30:00 PM,Philadelphia,Dallas,27,38,0,4.0,1,679
+2015,2,Sunday,4:25:00 PM,Philadelphia,Dallas,10,20,0,5.0,1,680
+2015,5,Sunday,1:00:00 PM,Philadelphia,New Orleans,39,17,0,0.0,0,681
+2015,6,Monday,8:30:00 PM,Philadelphia,New York Giants,27,7,0,2.0,1,682
+2015,10,Sunday,1:00:00 PM,Philadelphia,Miami,19,20,0,2.0,0,683
+2015,11,Sunday,1:00:00 PM,Philadelphia,Tampa Bay,17,45,0,0.0,0,684
+2015,14,Sunday,1:00:00 PM,Philadelphia,Buffalo,23,20,0,1.0,0,685
+2015,15,Sunday,8:30:00 PM,Philadelphia,Arizona,17,40,0,5.0,0,686
+2015,16,Saturday,8:25:00 PM,Philadelphia,Washington,24,38,0,3.0,1,687
+2011,2,Sunday,1:00:00 PM,Pittsburgh,Seattle,24,0,0,15.0,0,688
+2011,5,Sunday,1:00:00 PM,Pittsburgh,Tennessee,38,17,0,19.0,0,689
+2011,6,Sunday,1:00:00 PM,Pittsburgh,Jacksonville,17,13,0,24.0,0,690
+2011,8,Sunday,4:15:00 PM,Pittsburgh,New England,25,17,0,12.0,0,691
+2011,9,Sunday,8:20:00 PM,Pittsburgh,Baltimore,20,23,0,21.0,1,692
+2011,13,Sunday,1:00:00 PM,Pittsburgh,Cincinnati,35,7,0,9.0,1,693
+2011,14,Thursday,8:20:00 PM,Pittsburgh,Cleveland,14,3,0,16.0,1,694
+2011,16,Saturday,1:00:00 PM,Pittsburgh,St. Louis,27,0,0,10.0,0,695
+2012,2,Sunday,4:25:00 PM,Pittsburgh,New York Jets,27,10,0,25.0,0,696
+2012,5,Sunday,1:00:00 PM,Pittsburgh,Philadelphia,16,14,0,18.0,0,697
+2012,8,Sunday,1:00:00 PM,Pittsburgh,Washington,27,12,0,23.0,0,698
+2012,10,Monday,8:30:00 PM,Pittsburgh,Kansas City,16,13,1,25.0,0,699
+2012,11,Sunday,8:20:00 PM,Pittsburgh,Baltimore,10,13,0,52.0,1,700
+2012,14,Sunday,1:00:00 PM,Pittsburgh,San Diego,24,34,0,31.0,0,701
+2012,16,Sunday,1:00:00 PM,Pittsburgh,Cincinnati,10,13,0,30.0,1,702
+2012,17,Sunday,1:00:00 PM,Pittsburgh,Cleveland,24,10,0,3.0,1,703
+2013,1,Sunday,1:00:00 PM,Pittsburgh,Tennessee,9,16,0,37.0,0,704
+2013,3,Sunday,8:30:00 PM,Pittsburgh,Chicago,23,40,0,56.0,0,705
+2013,7,Sunday,4:25:00 PM,Pittsburgh,Baltimore,19,16,0,16.0,1,706
+2013,10,Sunday,1:00:00 PM,Pittsburgh,Buffalo,23,10,0,19.0,0,707
+2013,11,Sunday,1:00:00 PM,Pittsburgh,Detroit,37,27,0,34.0,0,708
+2013,14,Sunday,1:00:00 PM,Pittsburgh,Miami,28,34,0,6.0,0,709
+2013,15,Sunday,8:30:00 PM,Pittsburgh,Cincinnati,30,20,0,10.0,1,710
+2013,17,Sunday,1:00:00 PM,Pittsburgh,Cleveland,20,7,0,7.0,1,711
+2014,1,Sunday,1:00:00 PM,Pittsburgh,Cleveland,30,27,0,9.0,1,712
+2014,4,Sunday,1:00:00 PM,Pittsburgh,Tampa Bay,24,27,0,10.0,0,713
+2014,7,Monday,8:30:00 PM,Pittsburgh,Houston,30,23,0,11.0,0,714
+2014,8,Sunday,4:25:00 PM,Pittsburgh,Indianapolis,51,34,0,22.0,0,715
+2014,9,Sunday,8:30:00 PM,Pittsburgh,Baltimore,43,23,0,25.0,1,716
+2014,13,Sunday,1:00:00 PM,Pittsburgh,New Orleans,32,35,0,9.0,0,717
+2014,16,Sunday,1:00:00 PM,Pittsburgh,Kansas City,20,12,0,10.0,0,718
+2014,17,Sunday,8:30:00 PM,Pittsburgh,Cincinnati,27,17,0,17.0,1,719
+2015,2,Sunday,1:00:00 PM,Pittsburgh,San Francisco,43,18,0,4.0,0,720
+2015,4,Thursday,8:30:00 PM,Pittsburgh,Baltimore,20,23,1,1.0,1,721
+2015,6,Sunday,1:00:00 PM,Pittsburgh,Arizona,25,13,0,8.0,0,722
+2015,8,Sunday,1:00:00 PM,Pittsburgh,Cincinnati,10,16,0,3.0,1,723
+2015,9,Sunday,1:00:00 PM,Pittsburgh,Oakland,38,35,0,8.0,0,724
+2015,10,Sunday,1:00:00 PM,Pittsburgh,Cleveland,30,9,0,7.0,1,725
+2015,13,Sunday,8:30:00 PM,Pittsburgh,Indianapolis,45,10,0,3.0,0,726
+2015,15,Sunday,4:25:00 PM,Pittsburgh,Denver,34,27,0,5.0,0,727
+2011,1,Sunday,1:15:00 PM,San Diego,Minnesota,24,17,0,15.0,0,728
+2011,3,Sunday,1:05:00 PM,San Diego,Kansas City,20,17,0,37.0,1,729
+2011,4,Sunday,1:15:00 PM,San Diego,Miami,26,16,0,29.0,0,730
+2011,9,Sunday,1:15:00 PM,San Diego,Green Bay,38,45,0,30.0,0,731
+2011,10,Thursday,5:20:00 PM,San Diego,Oakland,17,24,0,69.0,1,732
+2011,12,Sunday,1:15:00 PM,San Diego,Denver,13,16,1,41.0,1,733
+2011,14,Sunday,1:15:00 PM,San Diego,Buffalo,37,10,0,30.0,0,734
+2011,15,Sunday,5:20:00 PM,San Diego,Baltimore,34,14,0,0.0,0,735
+2012,2,Sunday,1:25:00 PM,San Diego,Tennessee,38,10,0,23.0,0,736
+2012,3,Sunday,1:05:00 PM,San Diego,Atlanta,3,27,0,47.0,0,737
+2012,6,Monday,5:30:00 PM,San Diego,Denver,24,35,0,45.0,1,738
+2012,9,Thursday,5:20:00 PM,San Diego,Kansas City,31,13,0,40.0,1,739
+2012,12,Sunday,1:05:00 PM,San Diego,Baltimore,13,16,1,31.0,0,740
+2012,13,Sunday,1:25:00 PM,San Diego,Cincinnati,13,20,0,19.0,0,741
+2012,15,Sunday,1:05:00 PM,San Diego,Carolina,7,31,0,12.0,0,742
+2012,17,Sunday,1:25:00 PM,San Diego,Oakland,24,21,0,60.0,1,743
+2013,1,Monday,7:20:00 PM,San Diego,Houston,28,31,0,29.0,0,744
+2013,4,Sunday,1:25:00 PM,San Diego,Dallas,30,21,0,40.0,0,745
+2013,6,Monday,5:40:00 PM,San Diego,Indianapolis,24,6,0,13.0,0,746
+2013,10,Sunday,1:25:00 PM,San Diego,Denver,20,28,0,16.0,1,747
+2013,13,Sunday,1:25:00 PM,San Diego,Cincinnati,10,17,0,24.0,0,748
+2013,14,Sunday,1:25:00 PM,San Diego,New York Giants,37,14,0,19.0,0,749
+2013,16,Sunday,1:25:00 PM,San Diego,Oakland,26,13,0,36.0,1,750
+2013,17,Sunday,1:25:00 PM,San Diego,Kansas City,27,24,1,8.0,1,751
+2014,2,Sunday,1:05:00 PM,San Diego,Seattle,30,21,0,20.0,0,752
+2014,4,Sunday,1:05:00 PM,San Diego,Jacksonville,33,14,0,8.0,0,753
+2014,5,Sunday,1:25:00 PM,San Diego,New York Jets,31,0,0,18.0,0,754
+2014,7,Sunday,1:05:00 PM,San Diego,Kansas City,20,23,0,19.0,1,755
+2014,11,Sunday,1:05:00 PM,San Diego,Oakland,13,6,0,19.0,1,756
+2014,12,Sunday,1:05:00 PM,San Diego,St. Louis,27,24,0,19.0,0,757
+2014,14,Sunday,5:30:00 PM,San Diego,New England,14,23,0,17.0,0,758
+2014,15,Sunday,1:05:00 PM,San Diego,Denver,10,22,0,17.0,1,759
+2015,1,Sunday,1:25:00 PM,San Diego,Detroit,33,28,0,18.0,0,760
+2015,4,Sunday,1:05:00 PM,San Diego,Cleveland,30,27,0,14.0,0,761
+2015,5,Monday,5:30:00 PM,San Diego,Pittsburgh,20,24,0,13.0,0,762
+2015,7,Sunday,1:05:00 PM,San Diego,Oakland,29,37,0,13.0,1,763
+2015,9,Monday,5:30:00 PM,San Diego,Chicago,19,22,0,17.0,0,764
+2015,11,Sunday,1:05:00 PM,San Diego,Kansas City,3,33,0,8.0,1,765
+2015,13,Sunday,1:05:00 PM,San Diego,Denver,3,17,0,14.0,1,766
+2015,15,Sunday,1:25:00 PM,San Diego,Miami,30,14,0,36.0,0,767
+2011,1,Sunday,1:15:00 PM,San Francisco,Seattle,33,17,0,3.0,1,768
+2011,2,Sunday,1:05:00 PM,San Francisco,Dallas,24,27,1,4.0,0,769
+2011,5,Sunday,1:05:00 PM,San Francisco,Tampa Bay,48,3,0,3.0,0,770
+2011,8,Sunday,1:15:00 PM,San Francisco,Cleveland,20,10,0,1.0,0,771
+2011,10,Sunday,1:15:00 PM,San Francisco,New York Giants,27,20,0,0.0,0,772
+2011,11,Sunday,1:05:00 PM,San Francisco,Arizona,23,7,0,4.0,1,773
+2011,13,Sunday,1:15:00 PM,San Francisco,St. Louis,26,0,0,4.0,1,774
+2011,15,Monday,5:30:00 PM,San Francisco,Pittsburgh,20,3,0,10.0,0,775
+2012,2,Sunday,5:20:00 PM,San Francisco,Detroit,27,19,0,1.0,0,776
+2012,5,Sunday,1:25:00 PM,San Francisco,Buffalo,13,6,0,7.0,0,777
+2012,6,Sunday,1:25:00 PM,San Francisco,New York Giants,3,26,0,2.0,0,778
+2012,7,Thursday,5:30:00 PM,San Francisco,Seattle,13,6,0,6.0,1,779
+2012,10,Sunday,1:25:00 PM,San Francisco,St. Louis,24,24,1,8.0,1,780
+2012,11,Monday,5:40:00 PM,San Francisco,Chicago,32,7,0,1.0,0,781
+2012,14,Sunday,1:05:00 PM,San Francisco,Miami,27,13,0,12.0,0,782
+2012,17,Sunday,1:25:00 PM,San Francisco,Arizona,27,13,0,5.0,1,783
+2013,1,Sunday,1:25:00 PM,San Francisco,Green Bay,34,28,0,5.0,0,784
+2013,3,Sunday,1:25:00 PM,San Francisco,Indianapolis,7,27,0,6.0,0,785
+2013,5,Sunday,5:30:00 PM,San Francisco,Houston,34,3,0,1.0,0,786
+2013,6,Sunday,1:25:00 PM,San Francisco,Arizona,32,20,0,6.0,1,787
+2013,10,Sunday,1:05:00 PM,San Francisco,Carolina,9,10,0,1.0,0,788
+2013,13,Sunday,1:05:00 PM,San Francisco,St. Louis,23,13,0,3.0,1,789
+2013,14,Sunday,1:25:00 PM,San Francisco,Seattle,19,17,0,6.0,1,790
+2013,16,Monday,5:40:00 PM,San Francisco,Atlanta,34,24,0,0.0,0,791
+2014,2,Sunday,5:30:00 PM,San Francisco,Chicago,20,28,0,35.0,0,792
+2014,4,Sunday,1:25:00 PM,San Francisco,Philadelphia,26,21,0,20.0,0,793
+2014,5,Sunday,1:25:00 PM,San Francisco,Kansas City,22,17,0,33.0,0,794
+2014,9,Sunday,1:05:00 PM,San Francisco,St. Louis,10,13,0,25.0,1,795
+2014,12,Sunday,1:25:00 PM,San Francisco,Washington,17,13,0,24.0,0,796
+2014,13,Thursday,5:30:00 PM,San Francisco,Seattle,3,19,0,30.0,1,797
+2014,16,Saturday,5:25:00 PM,San Francisco,San Diego,35,38,1,25.0,0,798
+2014,17,Sunday,1:25:00 PM,San Francisco,Arizona,20,17,0,18.0,1,799
+2015,1,Monday,7:20:00 PM,San Francisco,Minnesota,20,3,0,28.0,0,800
+2015,4,Sunday,1:25:00 PM,San Francisco,Green Bay,3,17,0,14.0,0,801
+2015,6,Sunday,1:25:00 PM,San Francisco,Baltimore,25,20,0,24.0,0,802
+2015,7,Thursday,5:25:00 PM,San Francisco,Seattle,3,20,0,18.0,1,803
+2015,9,Sunday,1:05:00 PM,San Francisco,Atlanta,17,16,0,22.0,0,804
+2015,12,Sunday,1:05:00 PM,San Francisco,Arizona,13,19,0,12.0,1,805
+2015,15,Sunday,1:25:00 PM,San Francisco,Cincinnati,14,24,0,9.0,0,806
+2015,17,Sunday,1:25:00 PM,San Francisco,St. Louis,19,16,1,18.0,1,807
+2011,3,Sunday,1:15:00 PM,Seattle,Arizona,13,10,0,0.0,1,808
+2011,4,Sunday,1:05:00 PM,Seattle,Atlanta,28,30,0,0.0,0,809
+2011,8,Sunday,1:15:00 PM,Seattle,Cincinnati,12,34,0,0.0,0,810
+2011,10,Sunday,1:05:00 PM,Seattle,Baltimore,22,17,0,0.0,0,811
+2011,12,Sunday,1:05:00 PM,Seattle,Washington,17,23,0,0.0,0,812
+2011,13,Thursday,5:20:00 PM,Seattle,Philadelphia,31,14,0,1.0,0,813
+2011,14,Monday,5:30:00 PM,Seattle,St. Louis,30,13,0,0.0,1,814
+2011,16,Saturday,1:15:00 PM,Seattle,San Francisco,17,19,0,1.0,1,815
+2012,2,Sunday,1:06:00 PM,Seattle,Dallas,27,7,0,0.0,0,816
+2012,3,Monday,5:41:00 PM,Seattle,Green Bay,14,12,0,3.0,0,817
+2012,6,Sunday,1:05:00 PM,Seattle,New England,24,23,0,2.0,0,818
+2012,9,Sunday,1:05:00 PM,Seattle,Minnesota,30,20,0,5.0,0,819
+2012,10,Sunday,1:05:00 PM,Seattle,New York Jets,28,7,0,1.0,0,820
+2012,14,Sunday,1:26:00 PM,Seattle,Arizona,58,0,0,2.0,1,821
+2012,16,Sunday,5:31:00 PM,Seattle,San Francisco,42,13,0,4.0,1,822
+2012,17,Sunday,1:26:00 PM,Seattle,St. Louis,20,13,0,0.0,1,823
+2013,2,Sunday,5:31:00 PM,Seattle,San Francisco,29,3,0,2.0,1,824
+2013,3,Sunday,1:26:00 PM,Seattle,Jacksonville,45,17,0,1.0,0,825
+2013,6,Sunday,1:06:00 PM,Seattle,Tennessee,20,13,0,0.0,0,826
+2013,9,Sunday,1:05:00 PM,Seattle,Tampa Bay,27,24,1,2.0,0,827
+2013,11,Sunday,1:26:00 PM,Seattle,Minnesota,41,10,0,0.0,0,828
+2013,13,Monday,5:41:00 PM,Seattle,New Orleans,34,7,0,1.0,0,829
+2013,16,Sunday,1:06:00 PM,Seattle,Arizona,10,17,0,1.0,1,830
+2013,17,Sunday,1:26:00 PM,Seattle,St. Louis,27,9,0,1.0,1,831
+2014,1,Thursday,5:42:00 PM,Seattle,Green Bay,36,16,0,0.0,0,832
+2014,3,Sunday,1:25:00 PM,Seattle,Denver,26,20,1,1.0,0,833
+2014,6,Sunday,1:26:00 PM,Seattle,Dallas,23,30,0,0.0,0,834
+2014,9,Sunday,1:26:00 PM,Seattle,Oakland,30,24,0,0.0,0,835
+2014,10,Sunday,1:26:00 PM,Seattle,New York Giants,38,17,0,0.0,0,836
+2014,12,Sunday,1:06:00 PM,Seattle,Arizona,19,3,0,0.0,1,837
+2014,15,Sunday,1:26:00 PM,Seattle,San Francisco,17,7,0,1.0,1,838
+2014,17,Sunday,1:27:00 PM,Seattle,St. Louis,20,6,0,0.0,1,839
+2015,3,Sunday,1:25:00 PM,Seattle,Chicago,26,0,0,0.0,0,840
+2015,4,Monday,5:30:00 PM,Seattle,Detroit,13,10,0,1.0,0,841
+2015,6,Sunday,1:05:00 PM,Seattle,Carolina,23,27,0,1.0,0,842
+2015,10,Sunday,5:30:00 PM,Seattle,Arizona,32,39,0,1.0,1,843
+2015,11,Sunday,1:25:00 PM,Seattle,San Francisco,29,13,0,0.0,1,844
+2015,12,Sunday,1:25:00 PM,Seattle,Pittsburgh,39,30,0,0.0,0,845
+2015,15,Sunday,1:05:00 PM,Seattle,Cleveland,30,13,0,0.0,0,846
+2015,16,Sunday,1:25:00 PM,Seattle,St. Louis,17,23,0,0.0,1,847
+2011,1,Sunday,1:00:00 PM,Tampa Bay,Detroit,20,27,0,0.0,0,848
+2011,3,Sunday,4:15:00 PM,Tampa Bay,Atlanta,16,13,0,2.0,1,849
+2011,4,Monday,8:30:00 PM,Tampa Bay,Indianapolis,24,17,0,1.0,0,850
+2011,6,Sunday,4:15:00 PM,Tampa Bay,New Orleans,26,20,0,1.0,1,851
+2011,10,Sunday,1:00:00 PM,Tampa Bay,Houston,9,37,0,2.0,0,852
+2011,13,Sunday,1:00:00 PM,Tampa Bay,Carolina,19,38,0,2.0,1,853
+2011,15,Saturday,8:20:00 PM,Tampa Bay,Dallas,15,31,0,2.0,0,854
+2012,1,Sunday,4:25:00 PM,Tampa Bay,Carolina,16,10,0,1.0,1,855
+2012,4,Sunday,4:25:00 PM,Tampa Bay,Washington,22,24,0,2.0,0,856
+2012,6,Sunday,1:00:00 PM,Tampa Bay,Kansas City,38,10,0,0.0,0,857
+2012,7,Sunday,1:00:00 PM,Tampa Bay,New Orleans,28,35,0,1.0,1,858
+2012,10,Sunday,1:00:00 PM,Tampa Bay,San Diego,34,24,0,1.0,0,859
+2012,12,Sunday,1:00:00 PM,Tampa Bay,Atlanta,23,24,0,2.0,1,860
+2012,14,Sunday,1:00:00 PM,Tampa Bay,Philadelphia,21,23,0,1.0,0,861
+2012,16,Sunday,1:00:00 PM,Tampa Bay,St. Louis,13,28,0,0.0,0,862
+2013,2,Sunday,4:05:00 PM,Tampa Bay,New Orleans,14,16,0,2.0,1,863
+2013,4,Sunday,1:00:00 PM,Tampa Bay,Arizona,10,13,0,0.0,0,864
+2013,6,Sunday,1:00:00 PM,Tampa Bay,Philadelphia,20,31,0,2.0,0,865
+2013,8,Thursday,8:25:00 PM,Tampa Bay,Carolina,13,31,0,0.0,1,866
+2013,10,Monday,8:40:00 PM,Tampa Bay,Miami,22,19,0,1.0,0,867
+2013,11,Sunday,1:00:00 PM,Tampa Bay,Atlanta,41,28,0,0.0,1,868
+2013,14,Sunday,1:00:00 PM,Tampa Bay,Buffalo,27,6,0,2.0,0,869
+2013,15,Sunday,1:00:00 PM,Tampa Bay,San Francisco,14,33,0,1.0,0,870
+2014,1,Sunday,4:25:00 PM,Tampa Bay,Carolina,14,20,0,1.0,1,871
+2014,2,Sunday,4:05:00 PM,Tampa Bay,St. Louis,17,19,0,0.0,0,872
+2014,6,Sunday,1:00:00 PM,Tampa Bay,Baltimore,17,48,0,0.0,0,873
+2014,8,Sunday,1:00:00 PM,Tampa Bay,Minnesota,13,19,1,0.0,0,874
+2014,10,Sunday,1:00:00 PM,Tampa Bay,Atlanta,17,27,0,0.0,1,875
+2014,13,Sunday,1:00:00 PM,Tampa Bay,Cincinnati,13,14,0,0.0,0,876
+2014,16,Sunday,1:00:00 PM,Tampa Bay,Green Bay,3,20,0,1.0,0,877
+2014,17,Sunday,1:00:00 PM,Tampa Bay,New Orleans,20,23,0,0.0,1,878
+2015,1,Sunday,4:25:00 PM,Tampa Bay,Tennessee,14,42,0,1.0,0,879
+2015,4,Sunday,1:00:00 PM,Tampa Bay,Carolina,23,37,0,0.0,1,880
+2015,5,Sunday,1:00:00 PM,Tampa Bay,Jacksonville,38,31,0,1.0,0,881
+2015,9,Sunday,4:05:00 PM,Tampa Bay,New York Giants,18,32,0,0.0,0,882
+2015,10,Sunday,1:00:00 PM,Tampa Bay,Dallas,10,6,0,1.0,0,883
+2015,13,Sunday,1:00:00 PM,Tampa Bay,Atlanta,23,19,0,0.0,1,884
+2015,14,Sunday,1:00:00 PM,Tampa Bay,New Orleans,17,24,0,1.0,1,885
+2015,16,Sunday,1:00:00 PM,Tampa Bay,Chicago,21,26,0,1.0,0,886
+2011,2,Sunday,12:00:00 PM,Tennessee,Baltimore,26,13,0,0.0,0,887
+2011,3,Sunday,12:00:00 PM,Tennessee,Denver,17,14,0,0.0,0,888
+2011,7,Sunday,12:00:00 PM,Tennessee,Houston,7,41,0,0.0,1,889
+2011,8,Sunday,12:00:00 PM,Tennessee,Indianapolis,27,10,0,0.0,1,890
+2011,9,Sunday,3:05:00 PM,Tennessee,Cincinnati,17,24,0,1.0,0,891
+2011,12,Sunday,12:00:00 PM,Tennessee,Tampa Bay,23,17,0,0.0,0,892
+2011,14,Sunday,12:00:00 PM,Tennessee,New Orleans,17,22,0,1.0,0,893
+2011,16,Saturday,12:00:00 PM,Tennessee,Jacksonville,23,17,0,2.0,1,894
+2012,1,Sunday,12:00:00 PM,Tennessee,New England,13,34,0,0.0,0,895
+2012,3,Sunday,12:00:00 PM,Tennessee,Detroit,44,41,1,1.0,0,896
+2012,6,Thursday,7:20:00 PM,Tennessee,Pittsburgh,26,23,0,3.0,0,897
+2012,8,Sunday,12:00:00 PM,Tennessee,Indianapolis,13,19,1,0.0,1,898
+2012,9,Sunday,12:00:00 PM,Tennessee,Chicago,20,51,0,0.0,0,899
+2012,13,Sunday,12:00:00 PM,Tennessee,Houston,10,24,0,0.0,1,900
+2012,15,Monday,7:30:00 PM,Tennessee,New York Jets,14,10,0,4.0,0,901
+2012,17,Sunday,12:00:00 PM,Tennessee,Jacksonville,38,20,0,0.0,1,902
+2013,3,Sunday,12:00:00 PM,Tennessee,San Diego,20,17,0,1.0,0,903
+2013,4,Sunday,3:05:00 PM,Tennessee,New York Jets,38,13,0,0.0,0,904
+2013,5,Sunday,12:00:00 PM,Tennessee,Kansas City,17,26,0,0.0,0,905
+2013,7,Sunday,3:05:00 PM,Tennessee,San Francisco,17,31,0,3.0,0,906
+2013,10,Sunday,12:00:00 PM,Tennessee,Jacksonville,27,29,0,0.0,1,907
+2013,11,Thursday,7:25:00 PM,Tennessee,Indianapolis,27,30,0,3.0,1,908
+2013,15,Sunday,3:25:00 PM,Tennessee,Arizona,37,37,1,7.0,0,909
+2013,17,Sunday,12:00:00 PM,Tennessee,Houston,16,10,0,0.0,1,910
+2014,2,Sunday,12:00:00 PM,Tennessee,Dallas,10,26,0,0.0,0,911
+2014,5,Sunday,12:00:00 PM,Tennessee,Cleveland,28,29,0,6.0,0,912
+2014,6,Sunday,12:00:00 PM,Tennessee,Jacksonville,16,14,0,8.0,1,913
+2014,8,Sunday,12:00:00 PM,Tennessee,Houston,16,30,0,0.0,1,914
+2014,11,Monday,7:30:00 PM,Tennessee,Pittsburgh,24,27,0,1.0,0,915
+2014,14,Sunday,12:00:00 PM,Tennessee,New York Giants,7,36,0,0.0,0,916
+2014,15,Sunday,3:05:00 PM,Tennessee,New York Jets,11,16,0,2.0,0,917
+2014,17,Sunday,12:00:00 PM,Tennessee,Indianapolis,10,27,0,3.0,1,918
+2015,3,Sunday,12:00:00 PM,Tennessee,Indianapolis,33,35,0,8.0,1,919
+2015,5,Sunday,12:00:00 PM,Tennessee,Buffalo,13,14,0,3.0,0,920
+2015,6,Sunday,12:00:00 PM,Tennessee,Miami,10,38,0,3.0,0,921
+2015,7,Sunday,12:00:00 PM,Tennessee,Atlanta,7,10,0,4.0,0,922
+2015,10,Sunday,12:00:00 PM,Tennessee,Carolina,10,27,0,7.0,0,923
+2015,12,Sunday,12:00:00 PM,Tennessee,Oakland,21,24,0,0.0,0,924
+2015,13,Sunday,12:00:00 PM,Tennessee,Jacksonville,42,39,0,0.0,1,925
+2015,16,Sunday,12:00:00 PM,Tennessee,Houston,6,34,0,12.0,1,926
+2011,2,Sunday,1:00:00 PM,Washington,Arizona,22,21,0,2.0,0,927
+2011,6,Sunday,1:00:00 PM,Washington,Philadelphia,13,20,0,1.0,1,928
+2011,9,Sunday,1:00:00 PM,Washington,San Francisco,11,19,0,2.0,0,929
+2011,11,Sunday,1:00:00 PM,Washington,Dallas,24,27,1,7.0,1,930
+2011,13,Sunday,1:00:00 PM,Washington,New York Jets,19,34,0,0.0,0,931
+2011,14,Sunday,1:00:00 PM,Washington,New England,27,34,0,2.0,0,932
+2011,16,Saturday,1:00:00 PM,Washington,Minnesota,26,33,0,2.0,0,933
+2012,3,Sunday,1:00:00 PM,Washington,Cincinnati,31,38,0,5.0,0,934
+2012,5,Sunday,1:00:00 PM,Washington,Atlanta,17,24,0,3.0,0,935
+2012,6,Sunday,4:25:00 PM,Washington,Minnesota,38,26,0,3.0,0,936
+2012,9,Sunday,1:00:00 PM,Washington,Carolina,13,21,0,2.0,0,937
+2012,11,Sunday,1:00:00 PM,Washington,Philadelphia,31,6,0,5.0,1,938
+2012,13,Monday,8:30:00 PM,Washington,New York Giants,17,16,0,5.0,1,939
+2012,14,Sunday,1:00:00 PM,Washington,Baltimore,31,28,1,4.0,0,940
+2012,17,Sunday,8:20:00 PM,Washington,Dallas,28,18,0,7.0,1,941
+2013,1,Monday,7:10:00 PM,Washington,Philadelphia,27,33,0,7.0,1,942
+2013,3,Sunday,1:00:00 PM,Washington,Detroit,20,27,0,2.0,0,943
+2013,7,Sunday,1:00:00 PM,Washington,Chicago,45,41,0,1.0,0,944
+2013,9,Sunday,1:00:00 PM,Washington,San Diego,30,24,1,3.0,0,945
+2013,12,Monday,8:40:00 PM,Washington,San Francisco,6,27,0,4.0,0,946
+2013,13,Sunday,8:30:00 PM,Washington,New York Giants,17,24,0,2.0,1,947
+2013,14,Sunday,1:00:00 PM,Washington,Kansas City,10,45,0,0.0,0,948
+2013,16,Sunday,1:00:00 PM,Washington,Dallas,23,24,0,7.0,1,949
+2014,2,Sunday,1:00:00 PM,Washington,Jacksonville,41,10,0,2.0,0,950
+2014,4,Thursday,8:25:00 PM,Washington,New York Giants,14,45,0,3.0,1,951
+2014,5,Monday,8:30:00 PM,Washington,Seattle,17,27,0,0.0,0,952
+2014,7,Sunday,1:00:00 PM,Washington,Tennessee,19,17,0,4.0,0,953
+2014,11,Sunday,1:00:00 PM,Washington,Tampa Bay,7,27,0,0.0,0,954
+2014,14,Sunday,1:00:00 PM,Washington,St. Louis,0,24,0,3.0,0,955
+2014,16,Saturday,4:30:00 PM,Washington,Philadelphia,27,24,0,5.0,1,956
+2014,17,Sunday,1:00:00 PM,Washington,Dallas,17,44,0,1.0,1,957
+2015,1,Sunday,1:00:00 PM,Washington,Miami,10,17,0,0.0,0,958
+2015,2,Sunday,1:00:00 PM,Washington,St. Louis,24,10,0,0.0,0,959
+2015,4,Sunday,1:00:00 PM,Washington,Philadelphia,23,20,0,1.0,1,960
+2015,7,Sunday,1:00:00 PM,Washington,Tampa Bay,31,30,0,2.0,0,961
+2015,10,Sunday,1:00:00 PM,Washington,New Orleans,47,14,0,2.0,0,962
+2015,12,Sunday,1:00:00 PM,Washington,New York Giants,20,14,0,2.0,1,963
+2015,13,Monday,8:30:00 PM,Washington,Dallas,16,19,0,4.0,1,964
+2015,15,Sunday,1:00:00 PM,Washington,Buffalo,35,25,0,1.0,0,965
